@@ -886,8 +886,10 @@
     avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
     contributions: 2
   badges:
-  - http://img.shields.io/travis/neopoly/neo-dci.svg
-  - http://img.shields.io/codeclimate/github/neopoly/neo-dci.svg
+  - https://img.shields.io/travis/neopoly/neo-dci.svg
+  - https://img.shields.io/codeclimate/github/neopoly/neo-dci.svg
+  - https://codeclimate.com/github/neopoly/neo-dci/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/neo-dci.svg
   repo_url: git://github.com/neopoly/neo-dci.git
 - user_name: neopoly
   repo_name: neo-rails
@@ -954,12 +956,12 @@
   fork: false
   description: List of OSS projects by neopoly
   contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 7
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 2
-  - user_name: splattael
-    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/oss.git
 - user_name: neopoly

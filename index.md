@@ -30,7 +30,7 @@ Utilise rails manifest.json to resolve asset paths (and leave room to use other 
 
 List of OSS projects by neopoly
 
-<a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
 
 
 
@@ -225,7 +225,7 @@ Simple DCI
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="http://img.shields.io/travis/neopoly/neo-dci.svg"> &nbsp; <img src="http://img.shields.io/codeclimate/github/neopoly/neo-dci.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/neo-dci.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-dci.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-dci/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-dci.svg"> &nbsp; 
 
 
 ---
