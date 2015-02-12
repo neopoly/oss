@@ -3,7 +3,7 @@ require 'erb'
 require 'ostruct'
 require 'yaml'
 
-class HtmlBuilder
+class PageBuilder
   DEFAULT_PROJECT_YAML = 'projects.yml'
   DEFAULT_PROJECT_ERB  = 'templates/index.html.erb'
 
@@ -36,5 +36,5 @@ class HtmlBuilder
 end
 
 if $0 == __FILE__
-  puts HtmlBuilder.render(*ARGV)
+  puts PageBuilder.render(*ARGV)
 end

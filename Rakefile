@@ -12,10 +12,10 @@ task :projects => [:"projects:html", :"projects:md"]
 namespace :projects do
 
   def generate(yaml, template, output)
-    require_relative "script/build_html"
+    require_relative "script/page_builder"
 
     File.open(output, "wb") do |fh|
-      content = HtmlBuilder.render(yaml, template)
+      content = PageBuilder.render(yaml, template)
       fh.write content
     end
   end
