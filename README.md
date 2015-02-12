@@ -4,5 +4,15 @@ Generates a list of all neopoly Open Source projects.
 
 ## Usage
 
+    $ rake
 
-    $ ruby script/generate_project_list.rb > projects.yml
+### Generate projects page
+
+    $ rake projects
+    $ git commit
+
+### Generate project list
+
+    # Might take long - be patient
+    $ rake projects:list
+    $ git commit
