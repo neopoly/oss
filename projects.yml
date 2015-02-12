@@ -5,22 +5,54 @@
   fork: true
   description: ActsAsList plugin
   contributors:
-  - swanandp
-  - splattael
-  - chaffeqa
-  - jeremy
-  - aepstein
-  - NZKoz
-  - joneslee85
-  - pixeltrix
-  - afriqs
-  - bradediger
-  - danielcooper
-  - dhh
-  - mkdynamic
-  - rockrep
-  - tanordheim
-  - tiegz
+  - user_name: swanandp
+    avatar_url: https://avatars.githubusercontent.com/u/90904?v=3
+    contributions: 18
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 12
+  - user_name: chaffeqa
+    avatar_url: https://avatars.githubusercontent.com/u/287640?v=3
+    contributions: 8
+  - user_name: jeremy
+    avatar_url: https://avatars.githubusercontent.com/u/199?v=3
+    contributions: 4
+  - user_name: aepstein
+    avatar_url: https://avatars.githubusercontent.com/u/87617?v=3
+    contributions: 3
+  - user_name: NZKoz
+    avatar_url: https://avatars.githubusercontent.com/u/197?v=3
+    contributions: 3
+  - user_name: joneslee85
+    avatar_url: https://avatars.githubusercontent.com/u/135605?v=3
+    contributions: 2
+  - user_name: pixeltrix
+    avatar_url: https://avatars.githubusercontent.com/u/6321?v=3
+    contributions: 1
+  - user_name: afriqs
+    avatar_url: https://avatars.githubusercontent.com/u/318464?v=3
+    contributions: 1
+  - user_name: bradediger
+    avatar_url: https://avatars.githubusercontent.com/u/4621?v=3
+    contributions: 1
+  - user_name: danielcooper
+    avatar_url: https://avatars.githubusercontent.com/u/22127?v=3
+    contributions: 1
+  - user_name: dhh
+    avatar_url: https://avatars.githubusercontent.com/u/2741?v=3
+    contributions: 1
+  - user_name: mkdynamic
+    avatar_url: https://avatars.githubusercontent.com/u/4312?v=3
+    contributions: 1
+  - user_name: rockrep
+    avatar_url: https://avatars.githubusercontent.com/u/52886?v=3
+    contributions: 1
+  - user_name: tanordheim
+    avatar_url: https://avatars.githubusercontent.com/u/49933?v=3
+    contributions: 1
+  - user_name: tiegz
+    avatar_url: https://avatars.githubusercontent.com/u/5054?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/acts_as_list.git
 - user_name: neopoly
@@ -29,7 +61,9 @@
   fork: false
   description: Create ascii table from command line using terminal-table
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 8
   badges:
   - https://img.shields.io/travis/neopoly/ascii_table.svg
   - https://img.shields.io/codeclimate/github/neopoly/ascii_table.svg
@@ -42,9 +76,15 @@
   fork: false
   description: Add a visible countdown to your views.
   contributors:
-  - shlub
-  - jnbt
-  - splattael
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 77
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 3
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
   badges: []
   repo_url: git://github.com/neopoly/bottle_rocket.git
 - user_name: neopoly
@@ -53,8 +93,12 @@
   fork: false
   description: Implements a nice helper for fast boundary definitions
   contributors:
-  - holderbaum
-  - splattael
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 102
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 25
   badges:
   - https://img.shields.io/travis/neopoly/bound.svg
   - https://img.shields.io/codeclimate/github/neopoly/bound.svg
@@ -67,36 +111,96 @@
   fork: true
   description: Manage your application's gem dependencies with less pain
   contributors:
-  - indirect
-  - hone
-  - josevalim
-  - wycats
-  - nex3
-  - Who828
-  - sferik
-  - joshbuddy
-  - gnufied
-  - jeremy
-  - radar
-  - spastorino
-  - TimMoore
-  - tenderlove
-  - rohit
-  - joshk
-  - smashwilson
-  - andremedeiros
-  - eagletmt
-  - myronmarston
-  - kiela
-  - jherdman
-  - fabien
-  - mislav
-  - rthbound
-  - mvz
-  - cypher
-  - zzak
-  - joelmoss
-  - xaviershay
+  - user_name: indirect
+    avatar_url: https://avatars.githubusercontent.com/u/78?v=3
+    contributions: 1786
+  - user_name: hone
+    avatar_url: https://avatars.githubusercontent.com/u/16457?v=3
+    contributions: 443
+  - user_name: josevalim
+    avatar_url: https://avatars.githubusercontent.com/u/9582?v=3
+    contributions: 391
+  - user_name: wycats
+    avatar_url: https://avatars.githubusercontent.com/u/4?v=3
+    contributions: 110
+  - user_name: nex3
+    avatar_url: https://avatars.githubusercontent.com/u/188?v=3
+    contributions: 87
+  - user_name: Who828
+    avatar_url: https://avatars.githubusercontent.com/u/1170770?v=3
+    contributions: 86
+  - user_name: sferik
+    avatar_url: https://avatars.githubusercontent.com/u/10308?v=3
+    contributions: 60
+  - user_name: joshbuddy
+    avatar_url: https://avatars.githubusercontent.com/u/8898?v=3
+    contributions: 53
+  - user_name: gnufied
+    avatar_url: https://avatars.githubusercontent.com/u/278?v=3
+    contributions: 33
+  - user_name: jeremy
+    avatar_url: https://avatars.githubusercontent.com/u/199?v=3
+    contributions: 29
+  - user_name: radar
+    avatar_url: https://avatars.githubusercontent.com/u/2687?v=3
+    contributions: 27
+  - user_name: spastorino
+    avatar_url: https://avatars.githubusercontent.com/u/52642?v=3
+    contributions: 26
+  - user_name: TimMoore
+    avatar_url: https://avatars.githubusercontent.com/u/44385?v=3
+    contributions: 22
+  - user_name: tenderlove
+    avatar_url: https://avatars.githubusercontent.com/u/3124?v=3
+    contributions: 20
+  - user_name: rohit
+    avatar_url: https://avatars.githubusercontent.com/u/14514?v=3
+    contributions: 20
+  - user_name: joshk
+    avatar_url: https://avatars.githubusercontent.com/u/8701?v=3
+    contributions: 19
+  - user_name: smashwilson
+    avatar_url: https://avatars.githubusercontent.com/u/17565?v=3
+    contributions: 18
+  - user_name: andremedeiros
+    avatar_url: https://avatars.githubusercontent.com/u/9689?v=3
+    contributions: 18
+  - user_name: eagletmt
+    avatar_url: https://avatars.githubusercontent.com/u/69755?v=3
+    contributions: 16
+  - user_name: myronmarston
+    avatar_url: https://avatars.githubusercontent.com/u/49391?v=3
+    contributions: 15
+  - user_name: kiela
+    avatar_url: https://avatars.githubusercontent.com/u/680266?v=3
+    contributions: 15
+  - user_name: jherdman
+    avatar_url: https://avatars.githubusercontent.com/u/3300?v=3
+    contributions: 15
+  - user_name: fabien
+    avatar_url: https://avatars.githubusercontent.com/u/2749?v=3
+    contributions: 13
+  - user_name: mislav
+    avatar_url: https://avatars.githubusercontent.com/u/887?v=3
+    contributions: 13
+  - user_name: rthbound
+    avatar_url: https://avatars.githubusercontent.com/u/708692?v=3
+    contributions: 13
+  - user_name: mvz
+    avatar_url: https://avatars.githubusercontent.com/u/10898?v=3
+    contributions: 12
+  - user_name: cypher
+    avatar_url: https://avatars.githubusercontent.com/u/978?v=3
+    contributions: 12
+  - user_name: zzak
+    avatar_url: https://avatars.githubusercontent.com/u/277819?v=3
+    contributions: 12
+  - user_name: joelmoss
+    avatar_url: https://avatars.githubusercontent.com/u/4614?v=3
+    contributions: 12
+  - user_name: xaviershay
+    avatar_url: https://avatars.githubusercontent.com/u/1714?v=3
+    contributions: 12
   badges: []
   repo_url: git://github.com/neopoly/bundler.git
 - user_name: neopoly
@@ -105,8 +209,12 @@
   fork: false
   description: Bureau provide a simple interface to build custom xlsx files.
   contributors:
-  - splattael
-  - JanOwiesniak
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 7
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 4
   badges:
   - https://secure.travis-ci.org/neopoly/bureau.png
   - https://codeclimate.com/github/neopoly/bureau.png
@@ -117,7 +225,9 @@
   fork: false
   description: Callback-Trigger-Pingpong for clean DCI implementation.
   contributors:
-  - holderbaum
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 13
   badges: []
   repo_url: git://github.com/neopoly/call.git
 - user_name: neopoly
@@ -126,7 +236,9 @@
   fork: false
   description: Console based "Vier gewinnt".
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 17
   badges: []
   repo_url: git://github.com/neopoly/connect_four.git
 - user_name: neopoly
@@ -135,19 +247,45 @@
   fork: true
   description: The exceptionally handsome dashboard framework in Ruby and Coffeescript.
   contributors:
-  - pushmatrix
-  - davefp
-  - tahnok
-  - redronin
-  - EHadoux
-  - byroot
-  - ayrton
-  - kevinthompson
-  - persand
-  - coosh
-  - ryanseys
-  - southpolesteve
-  - tsantef
+  - user_name: pushmatrix
+    avatar_url: https://avatars.githubusercontent.com/u/190692?v=3
+    contributions: 38
+  - user_name: davefp
+    avatar_url: https://avatars.githubusercontent.com/u/298309?v=3
+    contributions: 3
+  - user_name: tahnok
+    avatar_url: https://avatars.githubusercontent.com/u/362769?v=3
+    contributions: 2
+  - user_name: redronin
+    avatar_url: https://avatars.githubusercontent.com/u/10535?v=3
+    contributions: 1
+  - user_name: EHadoux
+    avatar_url: https://avatars.githubusercontent.com/u/1655646?v=3
+    contributions: 1
+  - user_name: byroot
+    avatar_url: https://avatars.githubusercontent.com/u/44640?v=3
+    contributions: 1
+  - user_name: ayrton
+    avatar_url: https://avatars.githubusercontent.com/u/440926?v=3
+    contributions: 1
+  - user_name: kevinthompson
+    avatar_url: https://avatars.githubusercontent.com/u/76180?v=3
+    contributions: 1
+  - user_name: persand
+    avatar_url: https://avatars.githubusercontent.com/u/63389?v=3
+    contributions: 1
+  - user_name: coosh
+    avatar_url: https://avatars.githubusercontent.com/u/242523?v=3
+    contributions: 1
+  - user_name: ryanseys
+    avatar_url: https://avatars.githubusercontent.com/u/163873?v=3
+    contributions: 1
+  - user_name: southpolesteve
+    avatar_url: https://avatars.githubusercontent.com/u/471400?v=3
+    contributions: 1
+  - user_name: tsantef
+    avatar_url: https://avatars.githubusercontent.com/u/507722?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/dashing.git
 - user_name: neopoly
@@ -156,10 +294,18 @@
   fork: true
   description: Gem to create data grids with sortable columns and filters
   contributors:
-  - bogdan
-  - holderbaum
-  - nicolai86
-  - benolee
+  - user_name: bogdan
+    avatar_url: https://avatars.githubusercontent.com/u/122436?v=3
+    contributions: 173
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 17
+  - user_name: nicolai86
+    avatar_url: https://avatars.githubusercontent.com/u/111324?v=3
+    contributions: 3
+  - user_name: benolee
+    avatar_url: https://avatars.githubusercontent.com/u/384535?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/datagrid.git
 - user_name: neopoly
@@ -168,7 +314,9 @@
   fork: false
   description: SOAP Interface for EmailVision generated by wsdl2java
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 3
   badges: []
   repo_url: git://github.com/neopoly/emailvision-soap-jar.git
 - user_name: neopoly
@@ -177,8 +325,12 @@
   fork: true
   description: Ruby SOAP Api Client for EmailVision / CampaignCommander
   contributors:
-  - grosser
-  - splattael
+  - user_name: grosser
+    avatar_url: https://avatars.githubusercontent.com/u/11367?v=3
+    contributions: 56
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 32
   badges: []
   repo_url: git://github.com/neopoly/email_vision.git
 - user_name: neopoly
@@ -187,36 +339,96 @@
   fork: true
   description: The open source error catcher that's Airbrake API compliant
   contributors:
-  - ndbroadbent
-  - oruen
-  - jdpace
-  - nashby
-  - martinciu
-  - shingara
-  - boblail
-  - teubanks
-  - bjhess
-  - michaelparenteau
-  - jmonteiro
-  - gorenje
-  - akzhan
-  - deanperry
-  - benlangfeld
-  - lest
-  - unkopro
-  - fxposter
-  - cc
-  - kelvich
-  - ivanyv
-  - jlecour
-  - mathias
-  - aavenoso
-  - alsor
-  - brycemcd
-  - codeinvain
-  - DoppioJP
-  - phallstrom
-  - crystalneth
+  - user_name: ndbroadbent
+    avatar_url: https://avatars.githubusercontent.com/u/139536?v=3
+    contributions: 395
+  - user_name: oruen
+    avatar_url: https://avatars.githubusercontent.com/u/7712?v=3
+    contributions: 119
+  - user_name: jdpace
+    avatar_url: https://avatars.githubusercontent.com/u/2513?v=3
+    contributions: 98
+  - user_name: nashby
+    avatar_url: https://avatars.githubusercontent.com/u/200500?v=3
+    contributions: 49
+  - user_name: martinciu
+    avatar_url: https://avatars.githubusercontent.com/u/34633?v=3
+    contributions: 42
+  - user_name: shingara
+    avatar_url: https://avatars.githubusercontent.com/u/1088?v=3
+    contributions: 29
+  - user_name: boblail
+    avatar_url: https://avatars.githubusercontent.com/u/151907?v=3
+    contributions: 28
+  - user_name: teubanks
+    avatar_url: https://avatars.githubusercontent.com/u/82216?v=3
+    contributions: 19
+  - user_name: bjhess
+    avatar_url: https://avatars.githubusercontent.com/u/1175?v=3
+    contributions: 14
+  - user_name: michaelparenteau
+    avatar_url: https://avatars.githubusercontent.com/u/146460?v=3
+    contributions: 9
+  - user_name: jmonteiro
+    avatar_url: https://avatars.githubusercontent.com/u/3586?v=3
+    contributions: 9
+  - user_name: gorenje
+    avatar_url: https://avatars.githubusercontent.com/u/67360?v=3
+    contributions: 9
+  - user_name: akzhan
+    avatar_url: https://avatars.githubusercontent.com/u/112516?v=3
+    contributions: 8
+  - user_name: deanperry
+    avatar_url: https://avatars.githubusercontent.com/u/425200?v=3
+    contributions: 8
+  - user_name: benlangfeld
+    avatar_url: https://avatars.githubusercontent.com/u/210221?v=3
+    contributions: 6
+  - user_name: lest
+    avatar_url: https://avatars.githubusercontent.com/u/36079?v=3
+    contributions: 6
+  - user_name: unkopro
+    avatar_url: https://avatars.githubusercontent.com/u/33550?v=3
+    contributions: 6
+  - user_name: fxposter
+    avatar_url: https://avatars.githubusercontent.com/u/109216?v=3
+    contributions: 5
+  - user_name: cc
+    avatar_url: https://avatars.githubusercontent.com/u/2288?v=3
+    contributions: 5
+  - user_name: kelvich
+    avatar_url: https://avatars.githubusercontent.com/u/284219?v=3
+    contributions: 4
+  - user_name: ivanyv
+    avatar_url: https://avatars.githubusercontent.com/u/6844?v=3
+    contributions: 4
+  - user_name: jlecour
+    avatar_url: https://avatars.githubusercontent.com/u/5142?v=3
+    contributions: 4
+  - user_name: mathias
+    avatar_url: https://avatars.githubusercontent.com/u/3340?v=3
+    contributions: 3
+  - user_name: aavenoso
+    avatar_url: https://avatars.githubusercontent.com/u/51792?v=3
+    contributions: 3
+  - user_name: alsor
+    avatar_url: https://avatars.githubusercontent.com/u/414100?v=3
+    contributions: 3
+  - user_name: brycemcd
+    avatar_url: https://avatars.githubusercontent.com/u/11643?v=3
+    contributions: 2
+  - user_name: codeinvain
+    avatar_url: https://avatars.githubusercontent.com/u/275495?v=3
+    contributions: 2
+  - user_name: DoppioJP
+    avatar_url: https://avatars.githubusercontent.com/u/66110?v=3
+    contributions: 2
+  - user_name: phallstrom
+    avatar_url: https://avatars.githubusercontent.com/u/16705?v=3
+    contributions: 2
+  - user_name: crystalneth
+    avatar_url: https://avatars.githubusercontent.com/u/25253?v=3
+    contributions: 2
   badges: []
   repo_url: git://github.com/neopoly/errbit.git
 - user_name: neopoly
@@ -226,7 +438,9 @@
   description: Utilise rails manifest.json to resolve asset paths (and leave room
     to use other path resolver, too)
   contributors:
-  - headjump
+  - user_name: headjump
+    avatar_url: https://avatars.githubusercontent.com/u/191538?v=3
+    contributions: 3
   badges: []
   repo_url: git://github.com/neopoly/flash_asset_resolver.git
 - user_name: neopoly
@@ -235,7 +449,9 @@
   fork: false
   description: Move rails object building and validations out of persistence layer.
   contributors:
-  - shlub
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 2
   badges:
   - https://secure.travis-ci.org/neopoly/form_objects.png
   - https://codeclimate.com/github/neopoly/form_objects.png
@@ -246,28 +462,72 @@
   fork: true
   description: Really simple rubygem hosting
   contributors:
-  - cwninja
-  - georgebrock
-  - clowder
-  - akzhan
-  - jlecour
-  - PerfectlyNormal
-  - elliotcm
-  - cgs
-  - docwhat
-  - ctrochalakis
-  - railsbros-dirk
-  - caiofilipini
-  - geoffgarside
-  - gcampbell
-  - holderbaum
-  - jellehelsen
-  - sok-klausl
-  - fantactuka
-  - wulffeld
-  - mdelagralfo
-  - sundbp
-  - cap10morgan
+  - user_name: cwninja
+    avatar_url: https://avatars.githubusercontent.com/u/20390?v=3
+    contributions: 62
+  - user_name: georgebrock
+    avatar_url: https://avatars.githubusercontent.com/u/35861?v=3
+    contributions: 8
+  - user_name: clowder
+    avatar_url: https://avatars.githubusercontent.com/u/101044?v=3
+    contributions: 4
+  - user_name: akzhan
+    avatar_url: https://avatars.githubusercontent.com/u/112516?v=3
+    contributions: 3
+  - user_name: jlecour
+    avatar_url: https://avatars.githubusercontent.com/u/5142?v=3
+    contributions: 2
+  - user_name: PerfectlyNormal
+    avatar_url: https://avatars.githubusercontent.com/u/210046?v=3
+    contributions: 2
+  - user_name: elliotcm
+    avatar_url: https://avatars.githubusercontent.com/u/109225?v=3
+    contributions: 1
+  - user_name: cgs
+    avatar_url: https://avatars.githubusercontent.com/u/16057?v=3
+    contributions: 1
+  - user_name: docwhat
+    avatar_url: https://avatars.githubusercontent.com/u/40799?v=3
+    contributions: 1
+  - user_name: ctrochalakis
+    avatar_url: https://avatars.githubusercontent.com/u/1865?v=3
+    contributions: 1
+  - user_name: railsbros-dirk
+    avatar_url: https://avatars.githubusercontent.com/u/1948?v=3
+    contributions: 1
+  - user_name: caiofilipini
+    avatar_url: https://avatars.githubusercontent.com/u/47155?v=3
+    contributions: 1
+  - user_name: geoffgarside
+    avatar_url: https://avatars.githubusercontent.com/u/2704?v=3
+    contributions: 1
+  - user_name: gcampbell
+    avatar_url: https://avatars.githubusercontent.com/u/29105?v=3
+    contributions: 1
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 1
+  - user_name: jellehelsen
+    avatar_url: https://avatars.githubusercontent.com/u/129620?v=3
+    contributions: 1
+  - user_name: sok-klausl
+    avatar_url: https://avatars.githubusercontent.com/u/540105?v=3
+    contributions: 1
+  - user_name: fantactuka
+    avatar_url: https://avatars.githubusercontent.com/u/132642?v=3
+    contributions: 1
+  - user_name: wulffeld
+    avatar_url: https://avatars.githubusercontent.com/u/11388?v=3
+    contributions: 1
+  - user_name: mdelagralfo
+    avatar_url: https://avatars.githubusercontent.com/u/224051?v=3
+    contributions: 1
+  - user_name: sundbp
+    avatar_url: https://avatars.githubusercontent.com/u/61735?v=3
+    contributions: 1
+  - user_name: cap10morgan
+    avatar_url: https://avatars.githubusercontent.com/u/59748?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/geminabox.git
 - user_name: neopoly
@@ -276,7 +536,9 @@
   fork: false
   description: Simple ruby hash filter
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 15
   badges:
   - http://img.shields.io/travis/neopoly/hash_filter.svg
   - http://img.shields.io/codeclimate/github/neopoly/hash_filter.svg
@@ -289,14 +551,30 @@
   description: Tiny module that allows you to easily adapt from one hash structure
     to another with a simple declarative DSL.
   contributors:
-  - ismasan
-  - holderbaum
-  - markevans
-  - jdeveloper
-  - radamanthus
-  - splattael
-  - hunter
-  - textgoeshere
+  - user_name: ismasan
+    avatar_url: https://avatars.githubusercontent.com/u/1081?v=3
+    contributions: 65
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 7
+  - user_name: markevans
+    avatar_url: https://avatars.githubusercontent.com/u/12292?v=3
+    contributions: 6
+  - user_name: jdeveloper
+    avatar_url: https://avatars.githubusercontent.com/u/8874?v=3
+    contributions: 4
+  - user_name: radamanthus
+    avatar_url: https://avatars.githubusercontent.com/u/157258?v=3
+    contributions: 2
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
+  - user_name: hunter
+    avatar_url: https://avatars.githubusercontent.com/u/898?v=3
+    contributions: 1
+  - user_name: textgoeshere
+    avatar_url: https://avatars.githubusercontent.com/u/5317?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/hash_mapper.git
 - user_name: neopoly
@@ -305,36 +583,96 @@
   fork: true
   description: A compiler for the Mustache templating language
   contributors:
-  - sayrer
-  - fat
-  - mattrobenolt
-  - bradleywright
-  - mjackson
-  - akaspin
-  - andyburke
-  - MattCheely
-  - speier
-  - braddunbar
-  - chadhietala
-  - treygriffith
-  - nemtsov
-  - caniszczyk
-  - kruegerb
-  - neonstalwart
-  - ayoung
-  - kaezarrex
-  - jfhbrook
-  - kasperp
-  - mikefrey
-  - plecong
-  - bobbydavid
-  - scumbag-pull-request
-  - sindresorhus
-  - soheil
-  - stephank
-  - urban
-  - akhabibullina
-  - pthrasher
+  - user_name: sayrer
+    avatar_url: https://avatars.githubusercontent.com/u/253473?v=3
+    contributions: 87
+  - user_name: fat
+    avatar_url: https://avatars.githubusercontent.com/u/169705?v=3
+    contributions: 32
+  - user_name: mattrobenolt
+    avatar_url: https://avatars.githubusercontent.com/u/375744?v=3
+    contributions: 10
+  - user_name: bradleywright
+    avatar_url: https://avatars.githubusercontent.com/u/1516?v=3
+    contributions: 7
+  - user_name: mjackson
+    avatar_url: https://avatars.githubusercontent.com/u/92839?v=3
+    contributions: 5
+  - user_name: akaspin
+    avatar_url: https://avatars.githubusercontent.com/u/140088?v=3
+    contributions: 4
+  - user_name: andyburke
+    avatar_url: https://avatars.githubusercontent.com/u/273857?v=3
+    contributions: 4
+  - user_name: MattCheely
+    avatar_url: https://avatars.githubusercontent.com/u/604797?v=3
+    contributions: 4
+  - user_name: speier
+    avatar_url: https://avatars.githubusercontent.com/u/415836?v=3
+    contributions: 4
+  - user_name: braddunbar
+    avatar_url: https://avatars.githubusercontent.com/u/11674?v=3
+    contributions: 2
+  - user_name: chadhietala
+    avatar_url: https://avatars.githubusercontent.com/u/183799?v=3
+    contributions: 2
+  - user_name: treygriffith
+    avatar_url: https://avatars.githubusercontent.com/u/1371533?v=3
+    contributions: 2
+  - user_name: nemtsov
+    avatar_url: https://avatars.githubusercontent.com/u/39958?v=3
+    contributions: 2
+  - user_name: caniszczyk
+    avatar_url: https://avatars.githubusercontent.com/u/63777?v=3
+    contributions: 2
+  - user_name: kruegerb
+    avatar_url: https://avatars.githubusercontent.com/u/302456?v=3
+    contributions: 1
+  - user_name: neonstalwart
+    avatar_url: https://avatars.githubusercontent.com/u/84763?v=3
+    contributions: 1
+  - user_name: ayoung
+    avatar_url: https://avatars.githubusercontent.com/u/47586?v=3
+    contributions: 1
+  - user_name: kaezarrex
+    avatar_url: https://avatars.githubusercontent.com/u/574934?v=3
+    contributions: 1
+  - user_name: jfhbrook
+    avatar_url: https://avatars.githubusercontent.com/u/57536?v=3
+    contributions: 1
+  - user_name: kasperp
+    avatar_url: https://avatars.githubusercontent.com/u/481303?v=3
+    contributions: 1
+  - user_name: mikefrey
+    avatar_url: https://avatars.githubusercontent.com/u/62940?v=3
+    contributions: 1
+  - user_name: plecong
+    avatar_url: https://avatars.githubusercontent.com/u/164016?v=3
+    contributions: 1
+  - user_name: bobbydavid
+    avatar_url: https://avatars.githubusercontent.com/u/1099713?v=3
+    contributions: 1
+  - user_name: scumbag-pull-request
+    avatar_url: https://avatars.githubusercontent.com/u/1278932?v=3
+    contributions: 1
+  - user_name: sindresorhus
+    avatar_url: https://avatars.githubusercontent.com/u/170270?v=3
+    contributions: 1
+  - user_name: soheil
+    avatar_url: https://avatars.githubusercontent.com/u/287288?v=3
+    contributions: 1
+  - user_name: stephank
+    avatar_url: https://avatars.githubusercontent.com/u/89950?v=3
+    contributions: 1
+  - user_name: urban
+    avatar_url: https://avatars.githubusercontent.com/u/9216?v=3
+    contributions: 1
+  - user_name: akhabibullina
+    avatar_url: https://avatars.githubusercontent.com/u/2277940?v=3
+    contributions: 1
+  - user_name: pthrasher
+    avatar_url: https://avatars.githubusercontent.com/u/122682?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/hogan.js.git
 - user_name: neopoly
@@ -344,15 +682,33 @@
   description: Compiles your mustache templates with hogan.js on sprockets and the
     Rails asset pipeline.
   contributors:
-  - leshill
-  - lautis
-  - mikesmullin
-  - sars
-  - ajacksified
-  - adamstrickland
-  - apai4
-  - gleuch
-  - mdavidn
+  - user_name: leshill
+    avatar_url: https://avatars.githubusercontent.com/u/3938?v=3
+    contributions: 74
+  - user_name: lautis
+    avatar_url: https://avatars.githubusercontent.com/u/19264?v=3
+    contributions: 6
+  - user_name: mikesmullin
+    avatar_url: https://avatars.githubusercontent.com/u/106222?v=3
+    contributions: 4
+  - user_name: sars
+    avatar_url: https://avatars.githubusercontent.com/u/226194?v=3
+    contributions: 4
+  - user_name: ajacksified
+    avatar_url: https://avatars.githubusercontent.com/u/175515?v=3
+    contributions: 2
+  - user_name: adamstrickland
+    avatar_url: https://avatars.githubusercontent.com/u/78512?v=3
+    contributions: 1
+  - user_name: apai4
+    avatar_url: https://avatars.githubusercontent.com/u/1776432?v=3
+    contributions: 1
+  - user_name: gleuch
+    avatar_url: https://avatars.githubusercontent.com/u/9039?v=3
+    contributions: 1
+  - user_name: mdavidn
+    avatar_url: https://avatars.githubusercontent.com/u/1015230?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/hogan_assets.git
 - user_name: neopoly
@@ -361,9 +717,15 @@
   fork: false
   description: Rails 4 support
   contributors:
-  - svenfuchs
-  - slbug
-  - avakhov
+  - user_name: svenfuchs
+    avatar_url: https://avatars.githubusercontent.com/u/2208?v=3
+    contributions: 10
+  - user_name: slbug
+    avatar_url: https://avatars.githubusercontent.com/u/108694?v=3
+    contributions: 2
+  - user_name: avakhov
+    avatar_url: https://avatars.githubusercontent.com/u/92554?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/i18n-active_record.git
 - user_name: neopoly
@@ -373,30 +735,78 @@
   description: Test your Rails application's JavaScript with the mocha test framework
     and chai assertion library
   contributors:
-  - jfirebaugh
-  - joliss
-  - ragalie
-  - matthijsgroen
-  - markbates
-  - aron
-  - florish
-  - oesmith
-  - spicycode
-  - kevgo
-  - Mange
-  - jnbt
-  - dreamfall
-  - josepjaume
-  - alexspeller
-  - henrik
-  - johanneswuerbach
-  - '1337807'
-  - bmaland
-  - Burgestrand
-  - PatrickEifler
-  - Mr0grog
-  - wordofchristian
-  - billmag
+  - user_name: jfirebaugh
+    avatar_url: https://avatars.githubusercontent.com/u/98601?v=3
+    contributions: 144
+  - user_name: joliss
+    avatar_url: https://avatars.githubusercontent.com/u/524783?v=3
+    contributions: 112
+  - user_name: ragalie
+    avatar_url: https://avatars.githubusercontent.com/u/19682?v=3
+    contributions: 9
+  - user_name: matthijsgroen
+    avatar_url: https://avatars.githubusercontent.com/u/23627?v=3
+    contributions: 7
+  - user_name: markbates
+    avatar_url: https://avatars.githubusercontent.com/u/3528?v=3
+    contributions: 4
+  - user_name: aron
+    avatar_url: https://avatars.githubusercontent.com/u/47144?v=3
+    contributions: 4
+  - user_name: florish
+    avatar_url: https://avatars.githubusercontent.com/u/130847?v=3
+    contributions: 3
+  - user_name: oesmith
+    avatar_url: https://avatars.githubusercontent.com/u/116292?v=3
+    contributions: 3
+  - user_name: spicycode
+    avatar_url: https://avatars.githubusercontent.com/u/222?v=3
+    contributions: 2
+  - user_name: kevgo
+    avatar_url: https://avatars.githubusercontent.com/u/268934?v=3
+    contributions: 2
+  - user_name: Mange
+    avatar_url: https://avatars.githubusercontent.com/u/1599?v=3
+    contributions: 2
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 2
+  - user_name: dreamfall
+    avatar_url: https://avatars.githubusercontent.com/u/332810?v=3
+    contributions: 2
+  - user_name: josepjaume
+    avatar_url: https://avatars.githubusercontent.com/u/111746?v=3
+    contributions: 2
+  - user_name: alexspeller
+    avatar_url: https://avatars.githubusercontent.com/u/1217?v=3
+    contributions: 1
+  - user_name: henrik
+    avatar_url: https://avatars.githubusercontent.com/u/216?v=3
+    contributions: 1
+  - user_name: johanneswuerbach
+    avatar_url: https://avatars.githubusercontent.com/u/864578?v=3
+    contributions: 1
+  - user_name: '1337807'
+    avatar_url: https://avatars.githubusercontent.com/u/270746?v=3
+    contributions: 1
+  - user_name: bmaland
+    avatar_url: https://avatars.githubusercontent.com/u/2651?v=3
+    contributions: 1
+  - user_name: Burgestrand
+    avatar_url: https://avatars.githubusercontent.com/u/99166?v=3
+    contributions: 1
+  - user_name: PatrickEifler
+    avatar_url: https://avatars.githubusercontent.com/u/4687029?v=3
+    contributions: 1
+  - user_name: Mr0grog
+    avatar_url: https://avatars.githubusercontent.com/u/74178?v=3
+    contributions: 1
+  - user_name: wordofchristian
+    avatar_url: https://avatars.githubusercontent.com/u/555044?v=3
+    contributions: 1
+  - user_name: billmag
+    avatar_url: https://avatars.githubusercontent.com/u/909245?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/konacha.git
 - user_name: neopoly
@@ -405,18 +815,42 @@
   fork: true
   description: MiniTest extension for Rails
   contributors:
-  - blowmage
-  - mschuerig
-  - phiggins
-  - splattael
-  - gma
-  - gkop
-  - bobbus
-  - masa-iwasaki
-  - overture8
-  - rafadc
-  - rawongithub
-  - starpeak
+  - user_name: blowmage
+    avatar_url: https://avatars.githubusercontent.com/u/730?v=3
+    contributions: 73
+  - user_name: mschuerig
+    avatar_url: https://avatars.githubusercontent.com/u/9932?v=3
+    contributions: 12
+  - user_name: phiggins
+    avatar_url: https://avatars.githubusercontent.com/u/22962?v=3
+    contributions: 5
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
+  - user_name: gma
+    avatar_url: https://avatars.githubusercontent.com/u/2122?v=3
+    contributions: 1
+  - user_name: gkop
+    avatar_url: https://avatars.githubusercontent.com/u/222582?v=3
+    contributions: 1
+  - user_name: bobbus
+    avatar_url: https://avatars.githubusercontent.com/u/319570?v=3
+    contributions: 1
+  - user_name: masa-iwasaki
+    avatar_url: https://avatars.githubusercontent.com/u/12929?v=3
+    contributions: 1
+  - user_name: overture8
+    avatar_url: https://avatars.githubusercontent.com/u/72452?v=3
+    contributions: 1
+  - user_name: rafadc
+    avatar_url: https://avatars.githubusercontent.com/u/525892?v=3
+    contributions: 1
+  - user_name: rawongithub
+    avatar_url: https://avatars.githubusercontent.com/u/156687?v=3
+    contributions: 1
+  - user_name: starpeak
+    avatar_url: https://avatars.githubusercontent.com/u/11974?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/minitest-rails.git
 - user_name: neopoly
@@ -425,11 +859,16 @@
   fork: false
   description: Dashboard for us made with dashing
   contributors:
-  - splattael
-  - jnbt
-  - JanOwiesniak
-  badges:
-  - http://github.com/neopoly/neo-dash/raw/master/neo-dash.png
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 39
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 9
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 2
+  badges: []
   repo_url: git://github.com/neopoly/neo-dash.git
 - user_name: neopoly
   repo_name: neo-dci
@@ -437,9 +876,15 @@
   fork: false
   description: Simple DCI
   contributors:
-  - splattael
-  - jnbt
-  - holderbaum
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 25
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 4
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 2
   badges:
   - http://img.shields.io/travis/neopoly/neo-dci.svg
   - http://img.shields.io/codeclimate/github/neopoly/neo-dci.svg
@@ -450,11 +895,21 @@
   fork: false
   description: Some Rails helpers including mocks, presenters, exposures and scenarios.
   contributors:
-  - splattael
-  - jnbt
-  - shlub
-  - Khalasar
-  - holderbaum
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 46
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 9
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 6
+  - user_name: Khalasar
+    avatar_url: https://avatars.githubusercontent.com/u/3877672?v=3
+    contributions: 5
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 3
   badges:
   - https://img.shields.io/travis/neopoly/neo-rails.svg
   - https://img.shields.io/codeclimate/github/neopoly/neo-rails.svg
@@ -467,7 +922,9 @@
   fork: false
   description: Simple, static, nested application configuration.
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 63
   badges:
   - http://img.shields.io/travis/neopoly/nested_config.svg
   - http://img.shields.io/codeclimate/github/neopoly/nested_config.svg
@@ -479,8 +936,12 @@
   fork: false
   description: Dynamic callbacks for Ruby blocks
   contributors:
-  - splattael
-  - rrrene
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 33
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 2
   badges:
   - https://img.shields.io/travis/neopoly/on.svg
   - https://img.shields.io/codeclimate/github/neopoly/on.svg
@@ -489,11 +950,14 @@
   repo_url: git://github.com/neopoly/on.git
 - user_name: neopoly
   repo_name: oss
-  language: 
+  language: Ruby
   fork: false
   description: List of OSS projects by neopoly
-  contributors: []
-  badges: 
+  contributors:
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 1
+  badges: []
   repo_url: git://github.com/neopoly/oss.git
 - user_name: neopoly
   repo_name: pdftk
@@ -501,8 +965,12 @@
   fork: true
   description: Ruby wrapper around pdftk (a handy tool for manipulating PDF)
   contributors:
-  - holderbaum
-  - remi
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 4
+  - user_name: remi
+    avatar_url: https://avatars.githubusercontent.com/u/280?v=3
+    contributions: 3
   badges: []
   repo_url: git://github.com/neopoly/pdftk.git
 - user_name: neopoly
@@ -511,31 +979,81 @@
   fork: true
   description: A libyaml wrapper for Ruby
   contributors:
-  - tenderlove
-  - zzak
-  - jbarnette
-  - l15n
-  - nirvdrum
-  - drbrain
-  - goncalossilva
-  - pck
-  - atambo
-  - splattael
-  - bf4
-  - amatsuda
-  - sheerun
-  - eregon
-  - brookemckim
-  - Carolyn-Ann
-  - tjwallace
-  - jrafanie
-  - kreynolds
-  - stomar
-  - mjtko
-  - tarui
-  - olivernn
-  - rsutphin
-  - nagachika
+  - user_name: tenderlove
+    avatar_url: https://avatars.githubusercontent.com/u/3124?v=3
+    contributions: 404
+  - user_name: zzak
+    avatar_url: https://avatars.githubusercontent.com/u/277819?v=3
+    contributions: 12
+  - user_name: jbarnette
+    avatar_url: https://avatars.githubusercontent.com/u/3117?v=3
+    contributions: 10
+  - user_name: l15n
+    avatar_url: https://avatars.githubusercontent.com/u/3714?v=3
+    contributions: 6
+  - user_name: nirvdrum
+    avatar_url: https://avatars.githubusercontent.com/u/12584?v=3
+    contributions: 5
+  - user_name: drbrain
+    avatar_url: https://avatars.githubusercontent.com/u/9831?v=3
+    contributions: 4
+  - user_name: goncalossilva
+    avatar_url: https://avatars.githubusercontent.com/u/102931?v=3
+    contributions: 3
+  - user_name: pck
+    avatar_url: https://avatars.githubusercontent.com/u/3200503?v=3
+    contributions: 3
+  - user_name: atambo
+    avatar_url: https://avatars.githubusercontent.com/u/102009?v=3
+    contributions: 2
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
+  - user_name: bf4
+    avatar_url: https://avatars.githubusercontent.com/u/142914?v=3
+    contributions: 1
+  - user_name: amatsuda
+    avatar_url: https://avatars.githubusercontent.com/u/11493?v=3
+    contributions: 1
+  - user_name: sheerun
+    avatar_url: https://avatars.githubusercontent.com/u/292365?v=3
+    contributions: 1
+  - user_name: eregon
+    avatar_url: https://avatars.githubusercontent.com/u/168854?v=3
+    contributions: 1
+  - user_name: brookemckim
+    avatar_url: https://avatars.githubusercontent.com/u/245680?v=3
+    contributions: 1
+  - user_name: Carolyn-Ann
+    avatar_url: https://avatars.githubusercontent.com/u/1458181?v=3
+    contributions: 1
+  - user_name: tjwallace
+    avatar_url: https://avatars.githubusercontent.com/u/91084?v=3
+    contributions: 1
+  - user_name: jrafanie
+    avatar_url: https://avatars.githubusercontent.com/u/19339?v=3
+    contributions: 1
+  - user_name: kreynolds
+    avatar_url: https://avatars.githubusercontent.com/u/324744?v=3
+    contributions: 1
+  - user_name: stomar
+    avatar_url: https://avatars.githubusercontent.com/u/1112299?v=3
+    contributions: 1
+  - user_name: mjtko
+    avatar_url: https://avatars.githubusercontent.com/u/206834?v=3
+    contributions: 1
+  - user_name: tarui
+    avatar_url: https://avatars.githubusercontent.com/u/305451?v=3
+    contributions: 1
+  - user_name: olivernn
+    avatar_url: https://avatars.githubusercontent.com/u/35913?v=3
+    contributions: 1
+  - user_name: rsutphin
+    avatar_url: https://avatars.githubusercontent.com/u/2503?v=3
+    contributions: 1
+  - user_name: nagachika
+    avatar_url: https://avatars.githubusercontent.com/u/21976?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/psych.git
 - user_name: neopoly
@@ -546,9 +1064,15 @@
     iOS and Android devices via Apple Push Notifications (APN) and Google Cloud Message
     (GCM) respectively.
   contributors:
-  - lloydmeta
-  - jnbt
-  - koko1000ban
+  - user_name: lloydmeta
+    avatar_url: https://avatars.githubusercontent.com/u/914805?v=3
+    contributions: 152
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  - user_name: koko1000ban
+    avatar_url: https://avatars.githubusercontent.com/u/9923?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/push_to_devices.git
 - user_name: neopoly
@@ -557,8 +1081,12 @@
   fork: true
   description: Ruby library for interfacing with Push to Devices server (https://github.com/lloydmeta/push_to_devices)
   contributors:
-  - lloydmeta
-  - jnbt
+  - user_name: lloydmeta
+    avatar_url: https://avatars.githubusercontent.com/u/914805?v=3
+    contributions: 30
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 2
   badges: []
   repo_url: git://github.com/neopoly/push_to_devices_rb.git
 - user_name: neopoly
@@ -568,15 +1096,33 @@
   description: 'Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine
     - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com'
   contributors:
-  - jplang
-  - marutosi
-  - edavis10
-  - winterheart
-  - jbbarth
-  - emassip
-  - jnbt
-  - jgoerzen
-  - rrrene
+  - user_name: jplang
+    avatar_url: https://avatars.githubusercontent.com/u/13084?v=3
+    contributions: 5470
+  - user_name: marutosi
+    avatar_url: https://avatars.githubusercontent.com/u/200784?v=3
+    contributions: 4605
+  - user_name: edavis10
+    avatar_url: https://avatars.githubusercontent.com/u/1621?v=3
+    contributions: 561
+  - user_name: winterheart
+    avatar_url: https://avatars.githubusercontent.com/u/81112?v=3
+    contributions: 109
+  - user_name: jbbarth
+    avatar_url: https://avatars.githubusercontent.com/u/29363?v=3
+    contributions: 106
+  - user_name: emassip
+    avatar_url: https://avatars.githubusercontent.com/u/12543?v=3
+    contributions: 96
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 40
+  - user_name: jgoerzen
+    avatar_url: https://avatars.githubusercontent.com/u/112925?v=3
+    contributions: 12
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/redmine.git
 - user_name: neopoly
@@ -586,8 +1132,12 @@
   description: Retries an operation on an ActiveRecord until no StaleObjectError is
     being raised.
   contributors:
-  - splattael
-  - archit
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 44
+  - user_name: archit
+    avatar_url: https://avatars.githubusercontent.com/u/21273?v=3
+    contributions: 1
   badges:
   - https://secure.travis-ci.org/neopoly/retryable_record.png
   - https://codeclimate.com/github/neopoly/retryable_record.png
@@ -598,7 +1148,9 @@
   fork: false
   description: JRuby extensions for SmartFox
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 17
   badges: 
   repo_url: git://github.com/neopoly/rubyfox.git
 - user_name: neopoly
@@ -607,7 +1159,9 @@
   fork: false
   description: 'Ruby binding for SmartFox''s client. '
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 19
   badges: []
   repo_url: git://github.com/neopoly/rubyfox-client.git
 - user_name: neopoly
@@ -616,7 +1170,9 @@
   fork: false
   description: SmartFox Server bundled as a gem
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 45
   badges: []
   repo_url: git://github.com/neopoly/rubyfox-server.git
 - user_name: neopoly
@@ -625,8 +1181,12 @@
   fork: false
   description: Converts between SmartFox's SFSObject and Ruby Hashes
   contributors:
-  - splattael
-  - holderbaum
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 44
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 1
   badges:
   - https://secure.travis-ci.org/neopoly/rubyfox-sfsobject.png
   - https://codeclimate.com/github/neopoly/rubyfox-sfsobject.png
@@ -637,7 +1197,9 @@
   fork: false
   description: Simple base class to simplify service provider classes
   contributors:
-  - holderbaum
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 8
   badges: []
   repo_url: git://github.com/neopoly/service_pack.git
 - user_name: neopoly
@@ -646,7 +1208,9 @@
   fork: false
   description: Useful assertions for minitest and test/unit.
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 48
   badges:
   - https://secure.travis-ci.org/neopoly/simple_assertions.png
   repo_url: git://github.com/neopoly/simple_assertions.git
@@ -656,10 +1220,10 @@
   fork: false
   description: Generate image tag clouds in custom shapes
   contributors:
-  - jnbt
-  badges:
-  - https://raw.github.com/neopoly/tagcloud/master/examples/rabbit.png
-  - https://raw.github.com/neopoly/tagcloud/master/examples/rabbit-shape.png
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 20
+  badges: []
   repo_url: git://github.com/neopoly/tagcloud.git
 - user_name: neopoly
   repo_name: testem
@@ -667,7 +1231,9 @@
   fork: false
   description: Often used aliases for MiniTest::Spec.
   contributors:
-  - splattael
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 5
   badges:
   - https://secure.travis-ci.org/neopoly/testem.png
   repo_url: git://github.com/neopoly/testem.git
@@ -677,7 +1243,9 @@
   fork: false
   description: Adds uuids to ActiveRecord models along with validators.
   contributors:
-  - shlub
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 19
   badges:
   - https://secure.travis-ci.org/neopoly/universal_identifiable.png
   - https://codeclimate.com/github/neopoly/universal_identifiable.png
@@ -689,10 +1257,15 @@
   description: Splits your current schema.rb into per-table migrations. Think of it
     as >rebase< for your migrations.
   contributors:
-  - splattael
-  - holderbaum
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 35
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 14
   badges:
-  - http://img.shields.io/travis/neopoly/unschema.svg
-  - http://img.shields.io/codeclimate/github/neopoly/unschema.svg
-  - http://inch-ci.org/github/neopoly/unschema.svg
+  - https://img.shields.io/travis/neopoly/unschema.svg
+  - https://img.shields.io/codeclimate/github/neopoly/unschema.svg
+  - https://codeclimate.com/github/neopoly/unschema/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/unschema.svg
   repo_url: git://github.com/neopoly/unschema.git

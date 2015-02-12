@@ -2,6 +2,8 @@ require 'octokit'
 require 'repomen'
 require 'yaml'
 
+Repomen.config.work_dir = "tmp/"
+
 class Project
   attr_reader :badges
 
@@ -42,8 +44,11 @@ class Project
 
   def retrieve_badges(content)
     slug = "/#{@user_name}/#{@repo_name}"
+    gh_reference = "github.com#{slug}"
     images = content.scan(/(http\S+?\.(png|svg))/).map(&:first)
-    @badges = images.select { |src| src.include?(slug) }
+    @badges = images.select do |src|
+      src.include?(slug) && !src.include?(gh_reference) && src !~ /raw\.github/
+    end
   end
 
   # @return [String] filename
@@ -99,7 +104,11 @@ class GitHubUser
       []
     else
       list.map do |contributor|
-        contributor[:login]
+        {
+          'user_name' => contributor[:login],
+          'avatar_url' => contributor[:avatar_url],
+          'contributions' => contributor[:contributions],
+        }
       end
     end
   end

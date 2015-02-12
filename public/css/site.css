@@ -1,0 +1,60 @@
+b.update {
+  background-color: #ff6;
+}
+.social-links {
+  display: inline-block;
+  text-align: right;
+}
+.social-links a {
+  color: #c0c0c0;
+}
+.masthead-title img {
+  display: inline;
+  margin: 0;
+  vertical-align: middle;
+}
+.masthead-title a.title {
+  color: #333;
+}
+
+.masthead-title a.title:hover {
+  text-decoration: none;
+}
+
+.on-black {
+  background-color: black;
+}
+
+.screenshot {
+  padding: 10px;
+  background-color: black;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.screenshot > div {
+  background-repeat: no-repeat;
+  width: 700px;
+}
+.screenshot > div > a > img,
+.screenshot > div > img {
+  margin: 0;
+}
+
+strong > em {
+  font-weight: normal;
+  font-style: normal;
+  background-color: #ffa;
+}
+
+.language-title {
+  border-bottom: 2px solid #6C6396;
+  margin-bottom: 1rem;
+}
+
+.language-title span {
+  display: inline-block;
+  color: #fff;
+  background-color: #6C6396;
+  padding: 0.2rem;
+}
