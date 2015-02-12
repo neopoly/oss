@@ -119,10 +119,12 @@ class GitHubUser
   end
 end
 
-repos = GitHubUser.repos('neopoly')
+if $0 == __FILE__
+  repos = GitHubUser.repos('neopoly')
 
-projects = repos.map do |repo|
-  Project.new(repo)
+  projects = repos.map do |repo|
+    Project.new(repo)
+  end
+
+  puts projects.map(&:to_h).to_yaml
 end
-
-puts projects.map(&:to_h).to_yaml

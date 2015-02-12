@@ -35,4 +35,6 @@ class HtmlBuilder
   end
 end
 
-puts HtmlBuilder.render(*ARGV)
+if $0 == __FILE__
+  puts HtmlBuilder.render(*ARGV)
+end
