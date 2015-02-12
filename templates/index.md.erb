@@ -1,0 +1,26 @@
+# neopoly/OSS
+
+neo unplugged - [GitHub](https://github.com/neopoly)
+
+<% @languages.each do |language| %>
+## <%= language %>
+
+<% @projects.select { |p| p.language == language }.each do |project| %>
+
+### [<%= project.user_name %>/<%= project.repo_name %>](https://github.com/<%= project.user_name %>/<%= project.repo_name %>)
+
+<%= project.description %>
+
+<% project.contributors.each do |user| %><a href="https://github/<%= user['user_name'] %>"><img src="<%= user['avatar_url'] %>" width="32" height="32"> &nbsp; <% end %>
+
+<% if project.badges && !project.badges.empty? %>
+<% project.badges.each do |src| %><img src="<%= src %>"> &nbsp; <% end %>
+<% end %>
+
+<% end %>
+
+---
+
+<% end %>
+
+&copy; <%= Time.now.year %>.

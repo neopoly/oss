@@ -6,7 +6,6 @@ require 'yaml'
 class HtmlBuilder
   DEFAULT_PROJECT_YAML = 'projects.yml'
   DEFAULT_PROJECT_ERB  = 'templates/index.html.erb'
-  DEFAULT_PROJECT_HTML = 'projects.html'
 
   attr_reader :projects, :render
 
@@ -14,16 +13,17 @@ class HtmlBuilder
     new(*args).render
   end
 
-  def initialize(yaml_file)
-    filename = yaml_file || DEFAULT_PROJECT_YAML
-    @projects = load_yaml(filename).map { |hash| OpenStruct.new(hash) }
-    @projects = @projects.reject(&:fork)
+  def initialize(yaml_file=nil, template=nil)
+    yaml_file ||= DEFAULT_PROJECT_YAML
+    @template = template || DEFAULT_PROJECT_ERB
+    @projects = load_yaml(yaml_file).map { |hash| OpenStruct.new(hash) }
+    @projects = @projects.reject(&:fork).sort_by(&:repo_name)
 
     @languages = @projects.map(&:language).uniq.compact.sort
   end
 
   def render
-    erb = File.read(DEFAULT_PROJECT_ERB)
+    erb = File.read(@template)
     template = ERB.new(erb)
     template.result(binding)
   end
@@ -35,4 +35,4 @@ class HtmlBuilder
   end
 end
 
-puts HtmlBuilder.render(ARGV.first)
+puts HtmlBuilder.render(*ARGV)
