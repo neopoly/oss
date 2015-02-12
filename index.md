@@ -20,6 +20,23 @@ Utilise rails manifest.json to resolve asset paths (and leave room to use other 
 ---
 
 
+## CSS
+
+
+
+### [neopoly/oss](https://github.com/neopoly/oss)
+
+List of OSS projects by neopoly
+
+<a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+
+
+
+
+
+---
+
+
 ## Java
 
 
@@ -217,16 +234,6 @@ Dynamic callbacks for Ruby blocks
 
 
 <img src="https://img.shields.io/travis/neopoly/on.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/on.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/on/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/on.svg"> &nbsp; 
-
-
-
-
-### [neopoly/oss](https://github.com/neopoly/oss)
-
-List of OSS projects by neopoly
-
-<a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
-
 
 
 
