@@ -63,7 +63,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 8
+    contributions: 9
   badges:
   - https://img.shields.io/travis/neopoly/ascii_table.svg
   - https://img.shields.io/codeclimate/github/neopoly/ascii_table.svg
@@ -950,12 +950,15 @@
   repo_url: git://github.com/neopoly/on.git
 - user_name: neopoly
   repo_name: oss
-  language: Ruby
+  language: CSS
   fork: false
   description: List of OSS projects by neopoly
   contributors:
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 2
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/oss.git
