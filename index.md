@@ -121,7 +121,7 @@ Create ascii table from command line using terminal-table
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/ascii_table.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/ascii_table.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/ascii_table/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/ascii_table.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/ascii_table.svg"> &nbsp; <img src="https://img.shields.io/gem/v/ascii_table.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/ascii_table.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/ascii_table/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/ascii_table.svg"> &nbsp; 
 
 
 ---
@@ -147,7 +147,7 @@ Implements a nice helper for fast boundary definitions
 <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/bound.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/bound.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bound/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/bound.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/bound.svg"> &nbsp; <img src="https://img.shields.io/gem/v/bound.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/bound.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bound/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/bound.svg"> &nbsp; 
 
 
 ---
@@ -199,7 +199,7 @@ Simple ruby hash filter
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/hash_filter.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/hash_filter.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/hash_filter/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/hash_filter.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/hash_filter.svg"> &nbsp; <img src="https://img.shields.io/gem/v/hash_filter.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/hash_filter.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/hash_filter/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/hash_filter.svg"> &nbsp; 
 
 
 ---
@@ -225,7 +225,7 @@ Simple DCI
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/neo-dci.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-dci.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-dci/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-dci.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/neo-dci.svg"> &nbsp; <img src="https://img.shields.io/gem/v/neo-dci.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-dci.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-dci/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-dci.svg"> &nbsp; 
 
 
 ---
@@ -239,7 +239,7 @@ Some Rails helpers including mocks, presenters, exposures and scenarios.
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-rails.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-rails/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-rails.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/gem/v/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-rails.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-rails/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-rails.svg"> &nbsp; 
 
 
 ---
@@ -253,7 +253,7 @@ Simple, static, nested application configuration.
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/nested_config.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/nested_config.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/nested_config/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/nested_config.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/nested_config.svg"> &nbsp; <img src="https://img.shields.io/gem/v/nested_config.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/nested_config.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/nested_config/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/nested_config.svg"> &nbsp; 
 
 
 ---
@@ -267,7 +267,7 @@ Dynamic callbacks for Ruby blocks
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/on.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/on.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/on/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/on.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/on.svg"> &nbsp; <img src="https://img.shields.io/gem/v/on.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/on.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/on/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/on.svg"> &nbsp; 
 
 
 ---
@@ -281,7 +281,7 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/archit"><img src="https://avatars.githubusercontent.com/u/21273?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/retryable_record.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/retryable_record.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/retryable_record/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/retryable_record.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/retryable_record.svg"> &nbsp; <img src="https://img.shields.io/gem/v/retryable_record.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/retryable_record.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/retryable_record/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/retryable_record.svg"> &nbsp; 
 
 
 ---
@@ -307,7 +307,7 @@ Converts between SmartFox's SFSObject and Ruby Hashes
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/rubyfox-sfsobject.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rubyfox-sfsobject.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rubyfox-sfsobject/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rubyfox-sfsobject.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/rubyfox-sfsobject.svg"> &nbsp; <img src="https://img.shields.io/gem/v/rubyfox-sfsobject.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rubyfox-sfsobject.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rubyfox-sfsobject/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rubyfox-sfsobject.svg"> &nbsp; 
 
 
 ---
@@ -375,7 +375,7 @@ Splits your current schema.rb into per-table migrations. Think of it as >rebase<
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/unschema.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/unschema.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/unschema/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/unschema.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/unschema.svg"> &nbsp; <img src="https://img.shields.io/gem/v/unschema.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/unschema.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/unschema/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/unschema.svg"> &nbsp; 
 
 
 ---
