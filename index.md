@@ -307,7 +307,7 @@ Converts between SmartFox's SFSObject and Ruby Hashes
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://secure.travis-ci.org/neopoly/rubyfox-sfsobject.png"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rubyfox-sfsobject.png"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/rubyfox-sfsobject.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rubyfox-sfsobject.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rubyfox-sfsobject/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rubyfox-sfsobject.svg"> &nbsp; 
 
 
 ---
