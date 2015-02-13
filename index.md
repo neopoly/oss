@@ -199,7 +199,7 @@ Simple ruby hash filter
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="http://img.shields.io/travis/neopoly/hash_filter.svg"> &nbsp; <img src="http://img.shields.io/codeclimate/github/neopoly/hash_filter.svg"> &nbsp; <img src="http://inch-ci.org/github/neopoly/hash_filter.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/hash_filter.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/hash_filter.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/hash_filter/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/hash_filter.svg"> &nbsp; 
 
 
 ---
@@ -281,7 +281,7 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/archit"><img src="https://avatars.githubusercontent.com/u/21273?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://secure.travis-ci.org/neopoly/retryable_record.png"> &nbsp; <img src="https://codeclimate.com/github/neopoly/retryable_record.png"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/retryable_record.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/retryable_record.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/retryable_record/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/retryable_record.svg"> &nbsp; 
 
 
 ---

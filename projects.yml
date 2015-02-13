@@ -540,9 +540,10 @@
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 15
   badges:
-  - http://img.shields.io/travis/neopoly/hash_filter.svg
-  - http://img.shields.io/codeclimate/github/neopoly/hash_filter.svg
-  - http://inch-ci.org/github/neopoly/hash_filter.svg
+  - https://img.shields.io/travis/neopoly/hash_filter.svg
+  - https://img.shields.io/codeclimate/github/neopoly/hash_filter.svg
+  - https://codeclimate.com/github/neopoly/hash_filter/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/hash_filter.svg
   repo_url: git://github.com/neopoly/hash_filter.git
 - user_name: neopoly
   repo_name: hash_mapper
@@ -1145,8 +1146,10 @@
     avatar_url: https://avatars.githubusercontent.com/u/21273?v=3
     contributions: 1
   badges:
-  - https://secure.travis-ci.org/neopoly/retryable_record.png
-  - https://codeclimate.com/github/neopoly/retryable_record.png
+  - https://img.shields.io/travis/neopoly/retryable_record.svg
+  - https://img.shields.io/codeclimate/github/neopoly/retryable_record.svg
+  - https://codeclimate.com/github/neopoly/retryable_record/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/retryable_record.svg
   repo_url: git://github.com/neopoly/retryable_record.git
 - user_name: neopoly
   repo_name: rubyfox
