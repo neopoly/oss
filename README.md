@@ -13,6 +13,6 @@ Generates a list of all neopoly Open Source projects.
 
 ### Generate project list
 
-    # Might take long - be patient
+    # Might take a long time - be patient
     $ rake projects:list
     $ git commit
