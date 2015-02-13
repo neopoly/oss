@@ -49,7 +49,7 @@ class Project
 
   def retrieve_badges(content)
     slug = "/#{@user_name}/#{@repo_name}"
-    gem_reference = "/gems/#{@repo_name}"
+    gem_reference = "/gem/v/#{@repo_name}"
     gh_reference = "github.com#{slug}"
     images = content.scan(/(http\S+?\.(png|svg))/).map(&:first)
     @badges = images.select do |src|
