@@ -17,7 +17,7 @@ namespace :projects do
   def list(user, output)
     require_relative "#{ROOT_DIR}/script/generate_project_list.rb"
 
-    repos = GitHubUser.repos(user)
+    repos = Service::GitHub.repos(user)
 
     projects = repos.map do |repo|
       Project.new(repo)
