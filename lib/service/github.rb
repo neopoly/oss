@@ -1,3 +1,6 @@
+require 'yaml'
+require 'octokit'
+
 require 'service/github/user'
 require 'service/github/repo'
 
