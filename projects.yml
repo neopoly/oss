@@ -878,7 +878,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 25
+    contributions: 26
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 4
@@ -926,11 +926,12 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 63
+    contributions: 67
   badges:
-  - http://img.shields.io/travis/neopoly/nested_config.svg
-  - http://img.shields.io/codeclimate/github/neopoly/nested_config.svg
-  - http://inch-ci.org/github/neopoly/nested_config.svg
+  - https://img.shields.io/travis/neopoly/nested_config.svg
+  - https://img.shields.io/codeclimate/github/neopoly/nested_config.svg
+  - https://codeclimate.com/github/neopoly/nested_config/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/nested_config.svg
   repo_url: git://github.com/neopoly/nested_config.git
 - user_name: neopoly
   repo_name: 'on'
@@ -958,7 +959,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 7
+    contributions: 8
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 2

@@ -253,7 +253,7 @@ Simple, static, nested application configuration.
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="http://img.shields.io/travis/neopoly/nested_config.svg"> &nbsp; <img src="http://img.shields.io/codeclimate/github/neopoly/nested_config.svg"> &nbsp; <img src="http://inch-ci.org/github/neopoly/nested_config.svg"> &nbsp; 
+<img src="https://img.shields.io/travis/neopoly/nested_config.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/nested_config.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/nested_config/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/nested_config.svg"> &nbsp; 
 
 
 ---
