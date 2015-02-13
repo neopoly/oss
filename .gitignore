@@ -1,2 +1,3 @@
 .access_tokens.yml
 tmp/
+Gemfile.lock
