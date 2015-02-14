@@ -20,6 +20,8 @@ namespace :projects do
   end
 
   def list(user, output)
+    puts "Fetching project list. Be patient..."
+
     repos = Service::GitHub.repos(user)
 
     projects = repos.map do |repo|

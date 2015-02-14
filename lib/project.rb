@@ -37,10 +37,8 @@ class Project
     @badges = attributes[:badges]
 
     if load_badges
-      Repomen.retrieve(@repo_url) do |local_path|
-        if readme_filename = find_readme(local_path)
-          retrieve_badges File.read(readme_filename)
-        end
+      if readme = attributes[:readme]
+        retrieve_badges readme
       end
     end
   end
@@ -55,13 +53,6 @@ class Project
     @badges = images.select do |src|
       (src.include?(slug) || src.include?(gem_reference)) &&
         !src.include?(gh_reference) && src !~ /raw\.github/
-    end
-  end
-
-  # @return [String] filename
-  def find_readme(local_path)
-    Dir[File.join(local_path, '*.*')].detect do |f|
-      File.basename(f) =~ /\Areadme\./i
     end
   end
 end
