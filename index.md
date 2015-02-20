@@ -22,7 +22,7 @@ Utilise rails manifest.json to resolve asset paths (and leave room to use other 
 ---
 
 
-## CSS
+## HTML
 
 
 
@@ -182,6 +182,20 @@ Callback-Trigger-Pingpong for clean DCI implementation.
 
 
 
+### [jnbt/candy_check](https://github.com/jnbt/candy_check)
+
+Check and verify in-app receipts
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://travis-ci.org/jnbt/candy_check.svg"> &nbsp; <img src="https://coveralls.io/repos/jnbt/candy_check/badge.svg"> &nbsp; <img src="https://codeclimate.com/github/jnbt/candy_check/badges/gpa.svg"> &nbsp; <img src="https://img.shields.io/gemnasium/jnbt/candy_check.svg"> &nbsp; <img src="http://inch-ci.org/github/jnbt/candy_check.svg"> &nbsp; 
+
+
+---
+
+
+
 ### [neopoly/connect_four](https://github.com/neopoly/connect_four)
 
 Console based "Vier gewinnt".
@@ -202,18 +216,6 @@ Simple ruby hash filter
 
 
 <img src="https://img.shields.io/travis/neopoly/hash_filter.svg"> &nbsp; <img src="https://img.shields.io/gem/v/hash_filter.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/hash_filter.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/hash_filter/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/hash_filter.svg"> &nbsp; 
-
-
----
-
-
-
-### [neopoly/i18n-active_record](https://github.com/neopoly/i18n-active_record)
-
-Rails 4 support
-
-<a href="https://github/svenfuchs"><img src="https://avatars.githubusercontent.com/u/2208?v=3" width="32" height="32"> &nbsp; <a href="https://github/slbug"><img src="https://avatars.githubusercontent.com/u/108694?v=3" width="32" height="32"> &nbsp; <a href="https://github/avakhov"><img src="https://avatars.githubusercontent.com/u/92554?v=3" width="32" height="32"> &nbsp; 
-
 
 
 ---

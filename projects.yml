@@ -481,23 +481,6 @@
   badges: []
   repo_url: git://github.com/neopoly/hogan_assets.git
 - user_name: neopoly
-  repo_name: i18n-active_record
-  language: Ruby
-  fork: false
-  description: Rails 4 support
-  contributors:
-  - user_name: svenfuchs
-    avatar_url: https://avatars.githubusercontent.com/u/2208?v=3
-    contributions: 10
-  - user_name: slbug
-    avatar_url: https://avatars.githubusercontent.com/u/108694?v=3
-    contributions: 2
-  - user_name: avakhov
-    avatar_url: https://avatars.githubusercontent.com/u/92554?v=3
-    contributions: 1
-  badges: []
-  repo_url: git://github.com/neopoly/i18n-active_record.git
-- user_name: neopoly
   repo_name: konacha
   language: Ruby
   fork: true
@@ -723,13 +706,13 @@
   repo_url: git://github.com/neopoly/on.git
 - user_name: neopoly
   repo_name: oss
-  language: CSS
+  language: HTML
   fork: false
   description: List of OSS projects by neopoly
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 22
+    contributions: 23
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 5
@@ -874,10 +857,10 @@
   contributors:
   - user_name: jplang
     avatar_url: https://avatars.githubusercontent.com/u/13084?v=3
-    contributions: 5470
+    contributions: 5836
   - user_name: marutosi
     avatar_url: https://avatars.githubusercontent.com/u/200784?v=3
-    contributions: 4605
+    contributions: 4740
   - user_name: edavis10
     avatar_url: https://avatars.githubusercontent.com/u/1621?v=3
     contributions: 561
@@ -892,10 +875,13 @@
     contributions: 96
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 40
+    contributions: 42
   - user_name: jgoerzen
     avatar_url: https://avatars.githubusercontent.com/u/112925?v=3
     contributions: 12
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 1
@@ -1052,3 +1038,22 @@
   - https://codeclimate.com/github/neopoly/unschema/badges/coverage.svg
   - https://inch-ci.org/github/neopoly/unschema.svg
   repo_url: git://github.com/neopoly/unschema.git
+- user_name: jnbt
+  repo_name: candy_check
+  language: Ruby
+  fork: false
+  description: Check and verify in-app receipts
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 35
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 1
+  badges:
+  - https://travis-ci.org/jnbt/candy_check.svg
+  - https://coveralls.io/repos/jnbt/candy_check/badge.svg
+  - https://codeclimate.com/github/jnbt/candy_check/badges/gpa.svg
+  - https://img.shields.io/gemnasium/jnbt/candy_check.svg
+  - http://inch-ci.org/github/jnbt/candy_check.svg
+  repo_url: git://github.com/jnbt/candy_check.git
