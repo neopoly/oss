@@ -1,0 +1,6 @@
+projects:
+  include:
+    - neopoly/*
+    - jnbt/candy_check
+  exclude:
+    - neopoly/i18n-active_record

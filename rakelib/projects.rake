@@ -19,10 +19,21 @@ namespace :projects do
     end
   end
 
-  def list(user, output)
+  def list(config, output)
     puts "Fetching project list. Be patient..."
 
-    repos = Service::GitHub.repos(user)
+    repos = []
+    config.included_user_names.each do |user|
+      repos.concat Service::GitHub.repos(user)
+    end
+    config.included_repositories.each do |slug|
+      repos << Service::GitHub.repo(slug).to_h
+    end
+
+    repos = repos.reject do |repo|
+      slug = "#{repo[:user_name]}/#{repo[:repo_name]}"
+      config.excluded_repositories.include?(slug)
+    end
 
     projects = repos.map do |repo|
       Project.new(repo)
@@ -68,7 +79,7 @@ namespace :projects do
 
   desc "Genearte project list"
   task :list do
-    list "neopoly", PROJECTS_YAML
+    list ProjectConfig.new, PROJECTS_YAML
   end
 
   desc "Update project set in PROJECT"
