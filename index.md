@@ -80,7 +80,7 @@ Generate image tag clouds in custom shapes
 
 Dashboard for us made with dashing
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 
@@ -132,8 +132,10 @@ Create ascii table from command line using terminal-table
 
 Add a visible countdown to your views.
 
-<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
+
+<img src="https://img.shields.io/travis/neopoly/bottle_rocket.svg"> &nbsp; <img src="https://img.shields.io/gem/v/bottle_rocket.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/bottle_rocket.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bottle_rocket/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/bottle_rocket.svg"> &nbsp; 
 
 
 ---
@@ -144,10 +146,10 @@ Add a visible countdown to your views.
 
 Implements a nice helper for fast boundary definitions
 
-<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/bound.svg"> &nbsp; <img src="https://img.shields.io/gem/v/bound.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/bound.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bound/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/bound.svg"> &nbsp; 
+<img src="https://img.shields.io/gem/v/bound.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/bound.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/bound.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bound/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/bound.svg"> &nbsp; 
 
 
 ---

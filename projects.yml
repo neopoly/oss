@@ -48,10 +48,13 @@
     contributions: 102
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 26
+    contributions: 27
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
   badges:
-  - https://img.shields.io/travis/neopoly/bound.svg
   - https://img.shields.io/gem/v/bound.svg
+  - https://img.shields.io/travis/neopoly/bound.svg
   - https://img.shields.io/codeclimate/github/neopoly/bound.svg
   - https://codeclimate.com/github/neopoly/bound/badges/coverage.svg
   - https://inch-ci.org/github/neopoly/bound.svg
@@ -627,10 +630,10 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 72
+    contributions: 73
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 50
+    contributions: 51
   badges: []
   repo_url: git://github.com/neopoly/neo-dash.git
 - user_name: neopoly
@@ -726,7 +729,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 21
+    contributions: 22
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 5
@@ -1038,7 +1041,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 35
+    contributions: 37
   - user_name: holderbaum
     avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
     contributions: 14
