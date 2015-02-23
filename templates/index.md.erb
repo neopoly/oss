@@ -1,9 +1,11 @@
-# neopoly/OSS
+neopoly/OSS
+===========
 
 neo unplugged - [GitHub](https://github.com/neopoly)
 
 <% @languages.each do |language| %>
-## <%= language %>
+<%= language %>
+<%= "-" * language.size %>
 
 <% @projects.select { |p| p.language == language }.each do |project| %>
 
