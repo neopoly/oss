@@ -715,7 +715,7 @@
     contributions: 23
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
-    contributions: 5
+    contributions: 7
   badges: []
   repo_url: git://github.com/neopoly/oss.git
 - user_name: neopoly
@@ -896,7 +896,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 47
+    contributions: 49
   - user_name: archit
     avatar_url: https://avatars.githubusercontent.com/u/21273?v=3
     contributions: 1
@@ -1057,3 +1057,49 @@
   - https://img.shields.io/gemnasium/jnbt/candy_check.svg
   - http://inch-ci.org/github/jnbt/candy_check.svg
   repo_url: git://github.com/jnbt/candy_check.git
+- user_name: jnbt
+  repo_name: NeoQueues
+  language: C#
+  fork: false
+  description: A class library for working for callback-driven queues
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 11
+  badges: []
+  repo_url: git://github.com/jnbt/NeoQueues.git
+- user_name: jnbt
+  repo_name: NeoCollections
+  language: C#
+  fork: false
+  description: NeoCollections is a simple class library which allows AOT-safe iterations
+    in Unity3D
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 15
+  badges: []
+  repo_url: git://github.com/jnbt/NeoCollections.git
+- user_name: jnbt
+  repo_name: NeoAsync
+  language: C#
+  fork: false
+  description: NeoAsync is a growing toolset to manage asynchronous tasks when programming
+    in Unity3D
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 5
+  badges: []
+  repo_url: git://github.com/jnbt/NeoAsync.git
+- user_name: jnbt
+  repo_name: NeoLogging
+  language: C#
+  fork: false
+  description: NeoLogging is a very simple wrapper for UnityEngine.Debug
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 7
+  badges: []
+  repo_url: git://github.com/jnbt/NeoLogging.git

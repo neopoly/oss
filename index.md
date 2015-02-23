@@ -1,9 +1,11 @@
-# neopoly/OSS
+neopoly/OSS
+===========
 
 neo unplugged - [GitHub](https://github.com/neopoly)
 
 
-## ActionScript
+ActionScript
+------------
 
 
 
@@ -22,7 +24,64 @@ Utilise rails manifest.json to resolve asset paths (and leave room to use other 
 ---
 
 
-## HTML
+C#
+--
+
+
+
+### [jnbt/NeoAsync](https://github.com/jnbt/NeoAsync)
+
+NeoAsync is a growing toolset to manage asynchronous tasks when programming in Unity3D
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+### [jnbt/NeoCollections](https://github.com/jnbt/NeoCollections)
+
+NeoCollections is a simple class library which allows AOT-safe iterations in Unity3D
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+### [jnbt/NeoLogging](https://github.com/jnbt/NeoLogging)
+
+NeoLogging is a very simple wrapper for UnityEngine.Debug
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+### [jnbt/NeoQueues](https://github.com/jnbt/NeoQueues)
+
+A class library for working for callback-driven queues
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+---
+
+
+HTML
+----
 
 
 
@@ -41,7 +100,8 @@ List of OSS projects by neopoly
 ---
 
 
-## Java
+Java
+----
 
 
 
@@ -72,7 +132,8 @@ Generate image tag clouds in custom shapes
 ---
 
 
-## JavaScript
+JavaScript
+----------
 
 
 
@@ -91,7 +152,8 @@ Dashboard for us made with dashing
 ---
 
 
-## Python
+Python
+------
 
 
 
@@ -110,7 +172,8 @@ SmartFox Server bundled as a gem
 ---
 
 
-## Ruby
+Ruby
+----
 
 
 

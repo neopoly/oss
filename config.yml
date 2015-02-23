@@ -2,5 +2,9 @@ projects:
   include:
     - neopoly/*
     - jnbt/candy_check
+    - jnbt/NeoQueues
+    - jnbt/NeoCollections
+    - jnbt/NeoAsync
+    - jnbt/NeoLogging
   exclude:
     - neopoly/i18n-active_record
