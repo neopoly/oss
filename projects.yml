@@ -712,10 +712,13 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 23
+    contributions: 24
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 3
   badges: []
   repo_url: git://github.com/neopoly/oss.git
 - user_name: neopoly
@@ -907,6 +910,17 @@
   - https://codeclimate.com/github/neopoly/retryable_record/badges/coverage.svg
   - https://inch-ci.org/github/neopoly/retryable_record.svg
   repo_url: git://github.com/neopoly/retryable_record.git
+- user_name: neopoly
+  repo_name: rohbau
+  language: Ruby
+  fork: false
+  description: Provides a set of patterns used in Domain Driven Design
+  contributors:
+  - user_name: holderbaum
+    avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
+    contributions: 32
+  badges: []
+  repo_url: git://github.com/neopoly/rohbau.git
 - user_name: neopoly
   repo_name: rubyfox
   language: Java

@@ -89,7 +89,7 @@ HTML
 
 List of OSS projects by neopoly
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 
@@ -349,6 +349,18 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 
 
 <img src="https://img.shields.io/travis/neopoly/retryable_record.svg"> &nbsp; <img src="https://img.shields.io/gem/v/retryable_record.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/retryable_record.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/retryable_record/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/retryable_record.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/rohbau](https://github.com/neopoly/rohbau)
+
+Provides a set of patterns used in Domain Driven Design
+
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
+
 
 
 ---
