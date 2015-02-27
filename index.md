@@ -359,8 +359,10 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 
 Provides a set of patterns used in Domain Driven Design
 
-<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
+
+<img src="https://img.shields.io/gem/v/rohbau.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/rohbau.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rohbau.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rohbau/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rohbau.svg"> &nbsp; 
 
 
 ---

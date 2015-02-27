@@ -712,7 +712,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 24
+    contributions: 25
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
@@ -831,7 +831,7 @@
     contributions: 152
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 1
+    contributions: 3
   - user_name: koko1000ban
     avatar_url: https://avatars.githubusercontent.com/u/9923?v=3
     contributions: 1
@@ -918,8 +918,19 @@
   contributors:
   - user_name: holderbaum
     avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
-    contributions: 32
-  badges: []
+    contributions: 50
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 11
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
+  badges:
+  - https://img.shields.io/gem/v/rohbau.svg
+  - https://img.shields.io/travis/neopoly/rohbau.svg
+  - https://img.shields.io/codeclimate/github/neopoly/rohbau.svg
+  - https://codeclimate.com/github/neopoly/rohbau/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/rohbau.svg
   repo_url: git://github.com/neopoly/rohbau.git
 - user_name: neopoly
   repo_name: rubyfox
