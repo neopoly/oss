@@ -1019,7 +1019,9 @@
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 4
-  badges: []
+  badges:
+  - https://img.shields.io/gem/v/redmine-user_wiki_macro.svg
+  - https://inch-ci.org/github/neopoly/redmine-user_wiki_macro.svg
   repo_url: git://github.com/neopoly/redmine-user_wiki_macro.git
 - user_name: neopoly
   repo_name: retryable_record
