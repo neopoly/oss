@@ -387,8 +387,10 @@ Allows adding more view hooks into Redmine's templates
 
 Custom style overrides for Redmine
 
-<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
+
+<img src="https://img.shields.io/gem/v/redmine-neopoly_style.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-neopoly_style.svg"> &nbsp; 
 
 
 ---
@@ -457,6 +459,8 @@ Adds a {{user(login_name)}} macro to Redmine's wiki engine
 
 <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
+
+<img src="https://img.shields.io/gem/v/redmine-user_wiki_macro.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-user_wiki_macro.svg"> &nbsp; 
 
 
 ---
