@@ -953,10 +953,15 @@
   fork: false
   description: Custom style overrides for Redmine
   contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 1
-  badges: []
+  badges:
+  - https://img.shields.io/gem/v/redmine-neopoly_style.svg
+  - https://inch-ci.org/github/neopoly/redmine-neopoly_style.svg
   repo_url: git://github.com/neopoly/redmine-neopoly_style.git
 - user_name: neopoly
   repo_name: redmine-personal_wiki_page
