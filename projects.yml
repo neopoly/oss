@@ -49,6 +49,9 @@
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 27
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 2
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 1
@@ -306,6 +309,21 @@
   badges: []
   repo_url: git://github.com/neopoly/errbit.git
 - user_name: neopoly
+  repo_name: everyday
+  language: Ruby
+  fork: true
+  description: Solutions to common oss problems ruby developers have to struggle with
+    almost everyday
+  contributors:
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 18
+  - user_name: daxadax
+    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
+    contributions: 1
+  badges: []
+  repo_url: git://github.com/neopoly/everyday.git
+- user_name: neopoly
   repo_name: flash_asset_resolver
   language: ActionScript
   fork: false
@@ -317,19 +335,6 @@
     contributions: 3
   badges: []
   repo_url: git://github.com/neopoly/flash_asset_resolver.git
-- user_name: neopoly
-  repo_name: form_objects
-  language: 
-  fork: false
-  description: Move rails object building and validations out of persistence layer.
-  contributors:
-  - user_name: shlub
-    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
-    contributions: 2
-  badges:
-  - https://secure.travis-ci.org/neopoly/form_objects.png
-  - https://codeclimate.com/github/neopoly/form_objects.png
-  repo_url: git://github.com/neopoly/form_objects.git
 - user_name: neopoly
   repo_name: hash_filter
   language: Ruby
@@ -613,7 +618,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 73
+    contributions: 79
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 51
@@ -650,18 +655,21 @@
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 46
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 9
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 9
-  - user_name: shlub
-    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
-    contributions: 6
   - user_name: Khalasar
     avatar_url: https://avatars.githubusercontent.com/u/3877672?v=3
     contributions: 5
   - user_name: holderbaum
     avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
     contributions: 3
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 2
   badges:
   - https://img.shields.io/travis/neopoly/neo-rails.svg
   - https://img.shields.io/gem/v/neo-rails.svg
@@ -712,7 +720,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 25
+    contributions: 26
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
@@ -891,6 +899,129 @@
   badges: []
   repo_url: git://github.com/neopoly/redmine.git
 - user_name: neopoly
+  repo_name: redmine-custom_startpage
+  language: Ruby
+  fork: false
+  description: Allows the user to select almost any Redmine page as the initial start
+    page after login
+  contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/redmine-custom_startpage.svg
+  - https://inch-ci.org/github/neopoly/redmine-custom_startpage.svg
+  repo_url: git://github.com/neopoly/redmine-custom_startpage.git
+- user_name: neopoly
+  repo_name: redmine-http_basic_authentication
+  language: Ruby
+  fork: false
+  description: Use HTTP Basic Authentication for login and IMPLICIT registration!
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 8
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
+  badges:
+  - https://img.shields.io/gem/v/redmine-http_basic_authentication.svg
+  - https://inch-ci.org/github/neopoly/redmine-http_basic_authentication.svg
+  repo_url: git://github.com/neopoly/redmine-http_basic_authentication.git
+- user_name: neopoly
+  repo_name: redmine-more_view_hooks
+  language: Ruby
+  fork: false
+  description: Allows adding more view hooks into Redmine's templates
+  contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/redmine-more_view_hooks.svg
+  - https://inch-ci.org/github/neopoly/redmine-more_view_hooks.svg
+  repo_url: git://github.com/neopoly/redmine-more_view_hooks.git
+- user_name: neopoly
+  repo_name: redmine-neopoly_style
+  language: Ruby
+  fork: false
+  description: Custom style overrides for Redmine
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  badges: []
+  repo_url: git://github.com/neopoly/redmine-neopoly_style.git
+- user_name: neopoly
+  repo_name: redmine-personal_wiki_page
+  language: Ruby
+  fork: false
+  description: Adds a link to a personal wiki page to Redmine's header
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 2
+  badges:
+  - https://img.shields.io/gem/v/redmine-personal_wiki_page.svg
+  - https://inch-ci.org/github/neopoly/redmine-personal_wiki_page.svg
+  repo_url: git://github.com/neopoly/redmine-personal_wiki_page.git
+- user_name: neopoly
+  repo_name: redmine-project_custom_style
+  language: Ruby
+  fork: false
+  description: Allows additional CSS / JS styling via a special wiki page
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/redmine-project_custom_style.svg
+  - https://inch-ci.org/github/neopoly/redmine-project_custom_style.svg
+  repo_url: git://github.com/neopoly/redmine-project_custom_style.git
+- user_name: neopoly
+  repo_name: redmine-project_overview_page
+  language: Ruby
+  fork: false
+  description: Uses special wiki pages as the projects start page and it's sidebar
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/redmine-project_overview_page.svg
+  - https://inch-ci.org/github/neopoly/redmine-project_overview_page.svg
+  repo_url: git://github.com/neopoly/redmine-project_overview_page.git
+- user_name: neopoly
+  repo_name: redmine-roadmap_extended_issues
+  language: Ruby
+  fork: false
+  description: Adds more fields to the issues in Redmine's roadmap
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/redmine-roadmap_extended_issues.svg
+  - https://inch-ci.org/github/neopoly/redmine-roadmap_extended_issues.svg
+  repo_url: git://github.com/neopoly/redmine-roadmap_extended_issues.git
+- user_name: neopoly
+  repo_name: redmine-user_wiki_macro
+  language: Ruby
+  fork: false
+  description: Adds a {{user(login_name)}} macro to Redmine's wiki engine
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 4
+  badges: []
+  repo_url: git://github.com/neopoly/redmine-user_wiki_macro.git
+- user_name: neopoly
   repo_name: retryable_record
   language: Ruby
   fork: false
@@ -919,12 +1050,15 @@
   - user_name: holderbaum
     avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
     contributions: 50
-  - user_name: shlub
-    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
-    contributions: 11
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 25
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 2
+    contributions: 19
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 12
   badges:
   - https://img.shields.io/gem/v/rohbau.svg
   - https://img.shields.io/travis/neopoly/rohbau.svg
@@ -1019,6 +1153,25 @@
   badges: []
   repo_url: git://github.com/neopoly/tagcloud.git
 - user_name: neopoly
+  repo_name: tagfiles
+  language: Ruby
+  fork: false
+  description: Provides the tagfile helper for Rails
+  contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 24
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/tagfiles.svg
+  - https://img.shields.io/travis/neopoly/tagfiles.svg
+  - https://img.shields.io/codeclimate/github/neopoly/tagfiles.svg
+  - https://codeclimate.com/github/neopoly/tagfiles/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/tagfiles.svg
+  repo_url: git://github.com/neopoly/tagfiles.git
+- user_name: neopoly
   repo_name: testem
   language: Ruby
   fork: false
@@ -1063,6 +1216,28 @@
   - https://codeclimate.com/github/neopoly/unschema/badges/coverage.svg
   - https://inch-ci.org/github/neopoly/unschema.svg
   repo_url: git://github.com/neopoly/unschema.git
+- user_name: neopoly
+  repo_name: view_model
+  language: Ruby
+  fork: false
+  description: Rails compatible view models
+  contributors:
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 3
+  badges: []
+  repo_url: git://github.com/neopoly/view_model.git
+- user_name: neopoly
+  repo_name: view_model-rails
+  language: Ruby
+  fork: false
+  description: Rails engine providing view models.
+  contributors:
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 6
+  badges: []
+  repo_url: git://github.com/neopoly/view_model-rails.git
 - user_name: jnbt
   repo_name: candy_check
   language: Ruby

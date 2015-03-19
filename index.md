@@ -209,7 +209,7 @@ Add a visible countdown to your views.
 
 Implements a nice helper for fast boundary definitions
 
-<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/bound.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/bound.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/bound.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bound/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/bound.svg"> &nbsp; 
@@ -303,7 +303,7 @@ Simple DCI
 
 Some Rails helpers including mocks, presenters, exposures and scenarios.
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/travis/neopoly/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/gem/v/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-rails.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-rails/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-rails.svg"> &nbsp; 
@@ -341,6 +341,128 @@ Dynamic callbacks for Ruby blocks
 
 
 
+### [neopoly/redmine-custom_startpage](https://github.com/neopoly/redmine-custom_startpage)
+
+Allows the user to select almost any Redmine page as the initial start page after login
+
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-custom_startpage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-custom_startpage.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-http_basic_authentication](https://github.com/neopoly/redmine-http_basic_authentication)
+
+Use HTTP Basic Authentication for login and IMPLICIT registration!
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-http_basic_authentication.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-http_basic_authentication.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-more_view_hooks](https://github.com/neopoly/redmine-more_view_hooks)
+
+Allows adding more view hooks into Redmine's templates
+
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-more_view_hooks.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-more_view_hooks.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-neopoly_style](https://github.com/neopoly/redmine-neopoly_style)
+
+Custom style overrides for Redmine
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+### [neopoly/redmine-personal_wiki_page](https://github.com/neopoly/redmine-personal_wiki_page)
+
+Adds a link to a personal wiki page to Redmine's header
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-personal_wiki_page.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-personal_wiki_page.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-project_custom_style](https://github.com/neopoly/redmine-project_custom_style)
+
+Allows additional CSS / JS styling via a special wiki page
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-project_custom_style.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-project_custom_style.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-project_overview_page](https://github.com/neopoly/redmine-project_overview_page)
+
+Uses special wiki pages as the projects start page and it's sidebar
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-project_overview_page.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-project_overview_page.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-roadmap_extended_issues](https://github.com/neopoly/redmine-roadmap_extended_issues)
+
+Adds more fields to the issues in Redmine's roadmap
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-roadmap_extended_issues.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-roadmap_extended_issues.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-user_wiki_macro](https://github.com/neopoly/redmine-user_wiki_macro)
+
+Adds a {{user(login_name)}} macro to Redmine's wiki engine
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
 ### [neopoly/retryable_record](https://github.com/neopoly/retryable_record)
 
 Retries an operation on an ActiveRecord until no StaleObjectError is being raised.
@@ -359,7 +481,7 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 
 Provides a set of patterns used in Domain Driven Design
 
-<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/rohbau.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/rohbau.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rohbau.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rohbau/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rohbau.svg"> &nbsp; 
@@ -421,6 +543,20 @@ Useful assertions for minitest and test/unit.
 
 
 
+### [neopoly/tagfiles](https://github.com/neopoly/tagfiles)
+
+Provides the tagfile helper for Rails
+
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/tagfiles.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/tagfiles.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/tagfiles.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/tagfiles/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/tagfiles.svg"> &nbsp; 
+
+
+---
+
+
+
 ### [neopoly/testem](https://github.com/neopoly/testem)
 
 Often used aliases for MiniTest::Spec.
@@ -457,6 +593,30 @@ Splits your current schema.rb into per-table migrations. Think of it as >rebase<
 
 
 <img src="https://img.shields.io/travis/neopoly/unschema.svg"> &nbsp; <img src="https://img.shields.io/gem/v/unschema.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/unschema.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/unschema/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/unschema.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/view_model](https://github.com/neopoly/view_model)
+
+Rails compatible view models
+
+<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+### [neopoly/view_model-rails](https://github.com/neopoly/view_model-rails)
+
+Rails engine providing view models.
+
+<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
+
 
 
 ---
