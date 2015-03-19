@@ -540,7 +540,7 @@ Useful assertions for minitest and test/unit.
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://secure.travis-ci.org/neopoly/simple_assertions.png"> &nbsp; 
+<img src="https://img.shields.io/gem/v/simple_assertions.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/simple_assertions.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/simple_assertions.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/simple_assertions/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/simple_assertions.svg"> &nbsp; 
 
 
 ---

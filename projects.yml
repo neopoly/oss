@@ -1146,7 +1146,11 @@
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 48
   badges:
-  - https://secure.travis-ci.org/neopoly/simple_assertions.png
+  - https://img.shields.io/gem/v/simple_assertions.svg
+  - https://img.shields.io/travis/neopoly/simple_assertions.svg
+  - https://img.shields.io/codeclimate/github/neopoly/simple_assertions.svg
+  - https://codeclimate.com/github/neopoly/simple_assertions/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/simple_assertions.svg
   repo_url: git://github.com/neopoly/simple_assertions.git
 - user_name: neopoly
   repo_name: tagcloud
