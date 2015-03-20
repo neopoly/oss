@@ -343,7 +343,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 16
+    contributions: 21
   badges:
   - https://img.shields.io/travis/neopoly/hash_filter.svg
   - https://img.shields.io/gem/v/hash_filter.svg
@@ -720,13 +720,13 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 26
+    contributions: 32
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 3
+    contributions: 4
   badges: []
   repo_url: git://github.com/neopoly/oss.git
 - user_name: neopoly
@@ -969,9 +969,12 @@
   fork: false
   description: Adds a link to a personal wiki page to Redmine's header
   contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 2
+    contributions: 3
   badges:
   - https://img.shields.io/gem/v/redmine-personal_wiki_page.svg
   - https://inch-ci.org/github/neopoly/redmine-personal_wiki_page.svg
@@ -982,6 +985,9 @@
   fork: false
   description: Allows additional CSS / JS styling via a special wiki page
   contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 1
@@ -995,6 +1001,9 @@
   fork: false
   description: Uses special wiki pages as the projects start page and it's sidebar
   contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 1
@@ -1008,9 +1017,12 @@
   fork: false
   description: Adds more fields to the issues in Redmine's roadmap
   contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 4
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 1
+    contributions: 2
   badges:
   - https://img.shields.io/gem/v/redmine-roadmap_extended_issues.svg
   - https://inch-ci.org/github/neopoly/redmine-roadmap_extended_issues.svg
@@ -1023,7 +1035,10 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 4
+    contributions: 5
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 2
   badges:
   - https://img.shields.io/gem/v/redmine-user_wiki_macro.svg
   - https://inch-ci.org/github/neopoly/redmine-user_wiki_macro.svg
@@ -1144,7 +1159,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 48
+    contributions: 57
   badges:
   - https://img.shields.io/gem/v/simple_assertions.svg
   - https://img.shields.io/travis/neopoly/simple_assertions.svg
@@ -1235,8 +1250,13 @@
   contributors:
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
-    contributions: 3
-  badges: []
+    contributions: 20
+  badges:
+  - https://img.shields.io/travis/neopoly/view_model.svg
+  - https://img.shields.io/codeclimate/github/neopoly/view_model.svg
+  - https://codeclimate.com/github/neopoly/view_model/badges/coverage.svg
+  - https://img.shields.io/gem/v/view_model.svg
+  - https://inch-ci.org/github/neopoly/view_model.svg
   repo_url: git://github.com/neopoly/view_model.git
 - user_name: neopoly
   repo_name: view_model-rails
@@ -1246,8 +1266,13 @@
   contributors:
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
-    contributions: 6
-  badges: []
+    contributions: 17
+  badges:
+  - https://img.shields.io/travis/neopoly/view_model-rails.svg
+  - https://img.shields.io/codeclimate/github/neopoly/view_model-rails.svg
+  - https://codeclimate.com/github/neopoly/view_model-rails/badges/coverage.svg
+  - https://img.shields.io/gem/v/view_model-rails.svg
+  - https://inch-ci.org/github/neopoly/view_model-rails.svg
   repo_url: git://github.com/neopoly/view_model-rails.git
 - user_name: jnbt
   repo_name: candy_check

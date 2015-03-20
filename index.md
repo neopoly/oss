@@ -401,7 +401,7 @@ Custom style overrides for Redmine
 
 Adds a link to a personal wiki page to Redmine's header
 
-<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/redmine-personal_wiki_page.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-personal_wiki_page.svg"> &nbsp; 
@@ -415,7 +415,7 @@ Adds a link to a personal wiki page to Redmine's header
 
 Allows additional CSS / JS styling via a special wiki page
 
-<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/redmine-project_custom_style.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-project_custom_style.svg"> &nbsp; 
@@ -429,7 +429,7 @@ Allows additional CSS / JS styling via a special wiki page
 
 Uses special wiki pages as the projects start page and it's sidebar
 
-<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/redmine-project_overview_page.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-project_overview_page.svg"> &nbsp; 
@@ -443,7 +443,7 @@ Uses special wiki pages as the projects start page and it's sidebar
 
 Adds more fields to the issues in Redmine's roadmap
 
-<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/redmine-roadmap_extended_issues.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-roadmap_extended_issues.svg"> &nbsp; 
@@ -457,7 +457,7 @@ Adds more fields to the issues in Redmine's roadmap
 
 Adds a {{user(login_name)}} macro to Redmine's wiki engine
 
-<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/redmine-user_wiki_macro.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-user_wiki_macro.svg"> &nbsp; 
@@ -610,6 +610,8 @@ Rails compatible view models
 <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
 
 
+<img src="https://img.shields.io/travis/neopoly/view_model.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/view_model.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/view_model/badges/coverage.svg"> &nbsp; <img src="https://img.shields.io/gem/v/view_model.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/view_model.svg"> &nbsp; 
+
 
 ---
 
@@ -621,6 +623,8 @@ Rails engine providing view models.
 
 <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
 
+
+<img src="https://img.shields.io/travis/neopoly/view_model-rails.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/view_model-rails.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/view_model-rails/badges/coverage.svg"> &nbsp; <img src="https://img.shields.io/gem/v/view_model-rails.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/view_model-rails.svg"> &nbsp; 
 
 
 ---
