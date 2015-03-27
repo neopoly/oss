@@ -80,6 +80,28 @@ A class library for working for callback-driven queues
 ---
 
 
+CSS
+---
+
+
+
+### [neopoly/redmine-neopoly_style](https://github.com/neopoly/redmine-neopoly_style)
+
+Custom style overrides for Redmine
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-neopoly_style.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-neopoly_style.svg"> &nbsp; 
+
+
+---
+
+
+
+---
+
+
 HTML
 ----
 
@@ -383,20 +405,6 @@ Allows adding more view hooks into Redmine's templates
 
 
 
-### [neopoly/redmine-neopoly_style](https://github.com/neopoly/redmine-neopoly_style)
-
-Custom style overrides for Redmine
-
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
-
-
-<img src="https://img.shields.io/gem/v/redmine-neopoly_style.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-neopoly_style.svg"> &nbsp; 
-
-
----
-
-
-
 ### [neopoly/redmine-personal_wiki_page](https://github.com/neopoly/redmine-personal_wiki_page)
 
 Adds a link to a personal wiki page to Redmine's header
@@ -607,10 +615,10 @@ Splits your current schema.rb into per-table migrations. Think of it as >rebase<
 
 Rails compatible view models
 
-<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
 
-<img src="https://img.shields.io/travis/neopoly/view_model.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/view_model.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/view_model/badges/coverage.svg"> &nbsp; <img src="https://img.shields.io/gem/v/view_model.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/view_model.svg"> &nbsp; 
+<img src="https://img.shields.io/gem/v/view_model.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/view_model.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/view_model.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/view_model/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/view_model.svg"> &nbsp; 
 
 
 ---

@@ -720,7 +720,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 32
+    contributions: 33
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
@@ -949,16 +949,16 @@
   repo_url: git://github.com/neopoly/redmine-more_view_hooks.git
 - user_name: neopoly
   repo_name: redmine-neopoly_style
-  language: Ruby
+  language: CSS
   fork: false
   description: Custom style overrides for Redmine
   contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 4
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 2
-  - user_name: jnbt
-    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 1
   badges:
   - https://img.shields.io/gem/v/redmine-neopoly_style.svg
   - https://inch-ci.org/github/neopoly/redmine-neopoly_style.svg
@@ -1251,11 +1251,14 @@
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
     contributions: 20
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 1
   badges:
+  - https://img.shields.io/gem/v/view_model.svg
   - https://img.shields.io/travis/neopoly/view_model.svg
   - https://img.shields.io/codeclimate/github/neopoly/view_model.svg
   - https://codeclimate.com/github/neopoly/view_model/badges/coverage.svg
-  - https://img.shields.io/gem/v/view_model.svg
   - https://inch-ci.org/github/neopoly/view_model.svg
   repo_url: git://github.com/neopoly/view_model.git
 - user_name: neopoly
@@ -1301,7 +1304,7 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 11
+    contributions: 14
   badges: []
   repo_url: git://github.com/jnbt/NeoQueues.git
 - user_name: jnbt
@@ -1313,7 +1316,7 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 15
+    contributions: 18
   badges: []
   repo_url: git://github.com/jnbt/NeoCollections.git
 - user_name: jnbt
@@ -1325,7 +1328,7 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 5
+    contributions: 10
   badges: []
   repo_url: git://github.com/jnbt/NeoAsync.git
 - user_name: jnbt
@@ -1336,6 +1339,6 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 7
+    contributions: 12
   badges: []
   repo_url: git://github.com/jnbt/NeoLogging.git
