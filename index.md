@@ -325,7 +325,7 @@ Simple DCI
 
 Some Rails helpers including mocks, presenters, exposures and scenarios.
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/travis/neopoly/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/gem/v/neo-rails.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/neo-rails.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/neo-rails/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/neo-rails.svg"> &nbsp; 
@@ -399,6 +399,20 @@ Allows adding more view hooks into Redmine's templates
 
 
 <img src="https://img.shields.io/gem/v/redmine-more_view_hooks.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-more_view_hooks.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/redmine-per_user_status](https://github.com/neopoly/redmine-per_user_status)
+
+Allows users to set a custom status to be displayed next to their full name
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/redmine-per_user_status.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-per_user_status.svg"> &nbsp; 
 
 
 ---
@@ -493,7 +507,7 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 
 Provides a set of patterns used in Domain Driven Design
 
-<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/rohbau.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/rohbau.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rohbau.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rohbau/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rohbau.svg"> &nbsp; 

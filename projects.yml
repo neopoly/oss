@@ -670,6 +670,9 @@
   - user_name: JanOwiesniak
     avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
     contributions: 2
+  - user_name: daxadax
+    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
+    contributions: 2
   badges:
   - https://img.shields.io/travis/neopoly/neo-rails.svg
   - https://img.shields.io/gem/v/neo-rails.svg
@@ -720,7 +723,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 33
+    contributions: 34
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
@@ -980,6 +983,26 @@
   - https://inch-ci.org/github/neopoly/redmine-personal_wiki_page.svg
   repo_url: git://github.com/neopoly/redmine-personal_wiki_page.git
 - user_name: neopoly
+  repo_name: redmine-per_user_status
+  language: Ruby
+  fork: false
+  description: Allows users to set a custom status to be displayed next to their full
+    name
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 6
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 1
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/redmine-per_user_status.svg
+  - https://inch-ci.org/github/neopoly/redmine-per_user_status.svg
+  repo_url: git://github.com/neopoly/redmine-per_user_status.git
+- user_name: neopoly
   repo_name: redmine-project_custom_style
   language: Ruby
   fork: false
@@ -1077,7 +1100,10 @@
     contributions: 25
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 19
+    contributions: 20
+  - user_name: daxadax
+    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
+    contributions: 16
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
     contributions: 12
