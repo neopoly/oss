@@ -102,6 +102,26 @@ Custom style overrides for Redmine
 ---
 
 
+Elixir
+------
+
+
+
+### [neopoly/neoboard](https://github.com/neopoly/neoboard)
+
+A dashboard solution instrumenting Elixir, Phoenix and React
+
+<a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+---
+
+
 HTML
 ----
 
@@ -165,6 +185,20 @@ Dashboard for us made with dashing
 
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
 
+
+
+---
+
+
+
+### [neopoly/neocore-js](https://github.com/neopoly/neocore-js)
+
+"New" core js utils, like DI helpers, react-mixins, ...
+
+
+
+
+<img src="https://img.shields.io/travis/neopoly/neocore-js.svg"> &nbsp; 
 
 
 ---
@@ -507,7 +541,7 @@ Retries an operation on an ActiveRecord until no StaleObjectError is being raise
 
 Provides a set of patterns used in Domain Driven Design
 
-<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/holderbaum"><img src="https://avatars.githubusercontent.com/u/189389?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/gem/v/rohbau.svg"> &nbsp; <img src="https://img.shields.io/travis/neopoly/rohbau.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/rohbau.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/rohbau/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/rohbau.svg"> &nbsp; 

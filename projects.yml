@@ -276,9 +276,6 @@
   - user_name: kelvich
     avatar_url: https://avatars.githubusercontent.com/u/284219?v=3
     contributions: 4
-  - user_name: ivanyv
-    avatar_url: https://avatars.githubusercontent.com/u/6844?v=3
-    contributions: 4
   - user_name: jlecour
     avatar_url: https://avatars.githubusercontent.com/u/5142?v=3
     contributions: 4
@@ -305,6 +302,9 @@
     contributions: 2
   - user_name: crystalneth
     avatar_url: https://avatars.githubusercontent.com/u/25253?v=3
+    contributions: 2
+  - user_name: BlackFoks
+    avatar_url: https://avatars.githubusercontent.com/u/156314?v=3
     contributions: 2
   badges: []
   repo_url: git://github.com/neopoly/errbit.git
@@ -618,7 +618,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 79
+    contributions: 81
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 51
@@ -680,6 +680,26 @@
   - https://codeclimate.com/github/neopoly/neo-rails/badges/coverage.svg
   - https://inch-ci.org/github/neopoly/neo-rails.svg
   repo_url: git://github.com/neopoly/neo-rails.git
+- user_name: neopoly
+  repo_name: neoboard
+  language: Elixir
+  fork: false
+  description: A dashboard solution instrumenting Elixir, Phoenix and React
+  contributors:
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 44
+  badges: []
+  repo_url: git://github.com/neopoly/neoboard.git
+- user_name: neopoly
+  repo_name: neocore-js
+  language: JavaScript
+  fork: false
+  description: '"New" core js utils, like DI helpers, react-mixins, ...'
+  contributors: []
+  badges:
+  - https://img.shields.io/travis/neopoly/neocore-js.svg
+  repo_url: git://github.com/neopoly/neocore-js.git
 - user_name: neopoly
   repo_name: nested_config
   language: Ruby
@@ -871,10 +891,10 @@
   contributors:
   - user_name: jplang
     avatar_url: https://avatars.githubusercontent.com/u/13084?v=3
-    contributions: 5836
+    contributions: 5893
   - user_name: marutosi
     avatar_url: https://avatars.githubusercontent.com/u/200784?v=3
-    contributions: 4740
+    contributions: 4757
   - user_name: edavis10
     avatar_url: https://avatars.githubusercontent.com/u/1621?v=3
     contributions: 561
@@ -889,7 +909,7 @@
     contributions: 96
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 42
+    contributions: 50
   - user_name: jgoerzen
     avatar_url: https://avatars.githubusercontent.com/u/112925?v=3
     contributions: 12
@@ -991,10 +1011,10 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 6
+    contributions: 8
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 1
+    contributions: 3
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 1
@@ -1098,12 +1118,12 @@
   - user_name: JanOwiesniak
     avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
     contributions: 25
+  - user_name: daxadax
+    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
+    contributions: 20
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 20
-  - user_name: daxadax
-    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
-    contributions: 16
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
     contributions: 12
@@ -1122,7 +1142,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 19
+    contributions: 20
   badges: []
   repo_url: git://github.com/neopoly/rubyfox.git
 - user_name: neopoly
