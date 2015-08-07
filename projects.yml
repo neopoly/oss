@@ -210,7 +210,7 @@
     contributions: 69
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 3
+    contributions: 7
   badges: []
   repo_url: git://github.com/neopoly/css_dryer.git
 - user_name: neopoly
@@ -346,7 +346,7 @@
   contributors:
   - user_name: headjump
     avatar_url: https://avatars.githubusercontent.com/u/191538?v=3
-    contributions: 3
+    contributions: 52
   badges: []
   repo_url: git://github.com/neopoly/flash_asset_resolver.git
 - user_name: neopoly
@@ -636,6 +636,9 @@
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 51
+  - user_name: headjump
+    avatar_url: https://avatars.githubusercontent.com/u/191538?v=3
+    contributions: 7
   badges: []
   repo_url: git://github.com/neopoly/neo-dash.git
 - user_name: neopoly
@@ -710,7 +713,10 @@
   language: JavaScript
   fork: false
   description: '"New" core js utils, like DI helpers, react-mixins, ...'
-  contributors: []
+  contributors:
+  - user_name: headjump
+    avatar_url: https://avatars.githubusercontent.com/u/191538?v=3
+    contributions: 20
   badges:
   - https://img.shields.io/travis/neopoly/neocore-js.svg
   repo_url: git://github.com/neopoly/neocore-js.git
@@ -757,7 +763,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 36
+    contributions: 37
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
@@ -812,6 +818,9 @@
     contributions: 3
   - user_name: atambo
     avatar_url: https://avatars.githubusercontent.com/u/102009?v=3
+    contributions: 2
+  - user_name: pbm
+    avatar_url: https://avatars.githubusercontent.com/u/23729?v=3
     contributions: 2
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
@@ -896,6 +905,59 @@
     contributions: 2
   badges: []
   repo_url: git://github.com/neopoly/push_to_devices_rb.git
+- user_name: neopoly
+  repo_name: rack-reverse-proxy
+  language: Ruby
+  fork: true
+  description: A Reverse Proxy for Rack
+  contributors:
+  - user_name: jaswope
+    avatar_url: https://avatars.githubusercontent.com/u/75763?v=3
+    contributions: 35
+  - user_name: pex
+    avatar_url: https://avatars.githubusercontent.com/u/60568?v=3
+    contributions: 14
+  - user_name: ehlertij
+    avatar_url: https://avatars.githubusercontent.com/u/174227?v=3
+    contributions: 9
+  - user_name: hubertlepicki
+    avatar_url: https://avatars.githubusercontent.com/u/33274?v=3
+    contributions: 5
+  - user_name: jphenow
+    avatar_url: https://avatars.githubusercontent.com/u/319230?v=3
+    contributions: 4
+  - user_name: markbates
+    avatar_url: https://avatars.githubusercontent.com/u/3528?v=3
+    contributions: 4
+  - user_name: carlhoerberg
+    avatar_url: https://avatars.githubusercontent.com/u/180046?v=3
+    contributions: 3
+  - user_name: jjthrash
+    avatar_url: https://avatars.githubusercontent.com/u/28550?v=3
+    contributions: 3
+  - user_name: anfleene
+    avatar_url: https://avatars.githubusercontent.com/u/47750?v=3
+    contributions: 2
+  - user_name: brianewing
+    avatar_url: https://avatars.githubusercontent.com/u/564458?v=3
+    contributions: 2
+  - user_name: joliss
+    avatar_url: https://avatars.githubusercontent.com/u/524783?v=3
+    contributions: 2
+  - user_name: natejgreene
+    avatar_url: https://avatars.githubusercontent.com/u/1409077?v=3
+    contributions: 2
+  - user_name: sinm
+    avatar_url: https://avatars.githubusercontent.com/u/372724?v=3
+    contributions: 2
+  - user_name: josephruscio
+    avatar_url: https://avatars.githubusercontent.com/u/73915?v=3
+    contributions: 2
+  - user_name: rmanalan
+    avatar_url: https://avatars.githubusercontent.com/u/549?v=3
+    contributions: 1
+  badges: []
+  repo_url: git://github.com/neopoly/rack-reverse-proxy.git
 - user_name: neopoly
   repo_name: redmine
   language: Ruby
@@ -1101,6 +1163,44 @@
   - https://inch-ci.org/github/neopoly/redmine-user_wiki_macro.svg
   repo_url: git://github.com/neopoly/redmine-user_wiki_macro.git
 - user_name: neopoly
+  repo_name: registrar
+  language: Ruby
+  fork: false
+  description: 'Registrar: Standardized Multi-Provider Registration'
+  contributors:
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 8
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 3
+  - user_name: daxadax
+    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
+    contributions: 1
+  badges:
+  - https://img.shields.io/gem/v/registrar.svg
+  repo_url: git://github.com/neopoly/registrar.git
+- user_name: neopoly
+  repo_name: registrar-rails
+  language: Ruby
+  fork: false
+  description: Rails Engine to integrate Registrar
+  contributors:
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 3
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 1
+  - user_name: shlub
+    avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
+    contributions: 1
+  - user_name: daxadax
+    avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
+    contributions: 1
+  badges: []
+  repo_url: git://github.com/neopoly/registrar-rails.git
+- user_name: neopoly
   repo_name: retryable_record
   language: Ruby
   fork: false
@@ -1269,6 +1369,20 @@
   badges:
   - https://secure.travis-ci.org/neopoly/testem.png
   repo_url: git://github.com/neopoly/testem.git
+- user_name: neopoly
+  repo_name: tic_tac_toe
+  language: JavaScript
+  fork: false
+  description: Browser based Tic Tac Toe
+  contributors:
+  - user_name: headjump
+    avatar_url: https://avatars.githubusercontent.com/u/191538?v=3
+    contributions: 27
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 2
+  badges: []
+  repo_url: git://github.com/neopoly/tic_tac_toe.git
 - user_name: neopoly
   repo_name: universal_identifiable
   language: Ruby
