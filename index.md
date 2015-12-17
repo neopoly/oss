@@ -183,7 +183,7 @@ JavaScript
 
 Dashboard for us made with dashing
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/headjump"><img src="https://avatars.githubusercontent.com/u/191538?v=3" width="32" height="32"> &nbsp; 
 
 
 
@@ -195,10 +195,22 @@ Dashboard for us made with dashing
 
 "New" core js utils, like DI helpers, react-mixins, ...
 
-
+<a href="https://github/headjump"><img src="https://avatars.githubusercontent.com/u/191538?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/travis/neopoly/neocore-js.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/tic_tac_toe](https://github.com/neopoly/tic_tac_toe)
+
+Browser based Tic Tac Toe
+
+<a href="https://github/headjump"><img src="https://avatars.githubusercontent.com/u/191538?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
 
 
 ---
@@ -217,7 +229,7 @@ Python
 
 SmartFox Server bundled as a gem
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
 
 
 
@@ -279,7 +291,7 @@ Implements a nice helper for fast boundary definitions
 
 Bureau provide a simple interface to build custom xlsx files.
 
-<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://secure.travis-ci.org/neopoly/bureau.png"> &nbsp; <img src="https://codeclimate.com/github/neopoly/bureau.png"> &nbsp; 
@@ -321,6 +333,32 @@ Console based "Vier gewinnt".
 
 <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; 
 
+
+
+---
+
+
+
+### [neopoly/everyday](https://github.com/neopoly/everyday)
+
+Solutions to common oss problems ruby developers have to struggle with almost everyday
+
+<a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; 
+
+
+
+---
+
+
+
+### [neopoly/facebook_canvas](https://github.com/neopoly/facebook_canvas)
+
+Rails engine for Facebook's canvas integration.
+
+<a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/travis/neopoly/facebook_canvas.svg"> &nbsp; <img src="https://img.shields.io/gem/v/facebook_canvas.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/facebook_canvas.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/facebook_canvas/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/facebook_canvas.svg"> &nbsp; 
 
 
 ---
@@ -377,6 +415,18 @@ Simple, static, nested application configuration.
 
 
 <img src="https://img.shields.io/travis/neopoly/nested_config.svg"> &nbsp; <img src="https://img.shields.io/gem/v/nested_config.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/nested_config.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/nested_config/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/nested_config.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/omniauth-registrar](https://github.com/neopoly/omniauth-registrar)
+
+OmniAuth strategy to simplify sign up / sign in process
+
+
+
 
 
 ---
@@ -517,6 +567,32 @@ Adds a {{user(login_name)}} macro to Redmine's wiki engine
 
 
 <img src="https://img.shields.io/gem/v/redmine-user_wiki_macro.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/redmine-user_wiki_macro.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/registrar](https://github.com/neopoly/registrar)
+
+Registrar: Standardized Multi-Provider Registration
+
+<a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; 
+
+
+<img src="https://img.shields.io/gem/v/registrar.svg"> &nbsp; 
+
+
+---
+
+
+
+### [neopoly/registrar-rails](https://github.com/neopoly/registrar-rails)
+
+Rails Engine to integrate Registrar
+
+<a href="https://github/shlub"><img src="https://avatars.githubusercontent.com/u/443782?v=3" width="32" height="32"> &nbsp; <a href="https://github/daxadax"><img src="https://avatars.githubusercontent.com/u/3669808?v=3" width="32" height="32"> &nbsp; 
+
 
 
 ---

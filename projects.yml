@@ -125,14 +125,14 @@
   - user_name: eagletmt
     avatar_url: https://avatars.githubusercontent.com/u/69755?v=3
     contributions: 16
-  - user_name: myronmarston
-    avatar_url: https://avatars.githubusercontent.com/u/49391?v=3
+  - user_name: jherdman
+    avatar_url: https://avatars.githubusercontent.com/u/3300?v=3
     contributions: 15
   - user_name: kiela
     avatar_url: https://avatars.githubusercontent.com/u/680266?v=3
     contributions: 15
-  - user_name: jherdman
-    avatar_url: https://avatars.githubusercontent.com/u/3300?v=3
+  - user_name: myronmarston
+    avatar_url: https://avatars.githubusercontent.com/u/49391?v=3
     contributions: 15
   - user_name: fabien
     avatar_url: https://avatars.githubusercontent.com/u/2749?v=3
@@ -143,17 +143,17 @@
   - user_name: rthbound
     avatar_url: https://avatars.githubusercontent.com/u/708692?v=3
     contributions: 13
+  - user_name: joelmoss
+    avatar_url: https://avatars.githubusercontent.com/u/4614?v=3
+    contributions: 12
   - user_name: mvz
     avatar_url: https://avatars.githubusercontent.com/u/10898?v=3
-    contributions: 12
-  - user_name: cypher
-    avatar_url: https://avatars.githubusercontent.com/u/978?v=3
     contributions: 12
   - user_name: zzak
     avatar_url: https://avatars.githubusercontent.com/u/277819?v=3
     contributions: 12
-  - user_name: joelmoss
-    avatar_url: https://avatars.githubusercontent.com/u/4614?v=3
+  - user_name: cypher
+    avatar_url: https://avatars.githubusercontent.com/u/978?v=3
     contributions: 12
   - user_name: xaviershay
     avatar_url: https://avatars.githubusercontent.com/u/1714?v=3
@@ -170,9 +170,6 @@
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 7
-  - user_name: JanOwiesniak
-    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
-    contributions: 4
   badges:
   - https://secure.travis-ci.org/neopoly/bureau.png
   - https://codeclimate.com/github/neopoly/bureau.png
@@ -196,7 +193,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 17
+    contributions: 18
   badges: []
   repo_url: git://github.com/neopoly/connect_four.git
 - user_name: neopoly
@@ -302,14 +299,14 @@
   - user_name: alsor
     avatar_url: https://avatars.githubusercontent.com/u/414100?v=3
     contributions: 3
-  - user_name: brycemcd
-    avatar_url: https://avatars.githubusercontent.com/u/11643?v=3
+  - user_name: lda
+    avatar_url: https://avatars.githubusercontent.com/u/114811?v=3
     contributions: 2
   - user_name: codeinvain
     avatar_url: https://avatars.githubusercontent.com/u/275495?v=3
     contributions: 2
-  - user_name: DoppioJP
-    avatar_url: https://avatars.githubusercontent.com/u/66110?v=3
+  - user_name: brycemcd
+    avatar_url: https://avatars.githubusercontent.com/u/11643?v=3
     contributions: 2
   - user_name: phallstrom
     avatar_url: https://avatars.githubusercontent.com/u/16705?v=3
@@ -325,18 +322,37 @@
 - user_name: neopoly
   repo_name: everyday
   language: Ruby
-  fork: true
+  fork: false
   description: Solutions to common oss problems ruby developers have to struggle with
     almost everyday
   contributors:
-  - user_name: JanOwiesniak
-    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
-    contributions: 18
   - user_name: daxadax
     avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
     contributions: 1
   badges: []
   repo_url: git://github.com/neopoly/everyday.git
+- user_name: neopoly
+  repo_name: facebook_canvas
+  language: Ruby
+  fork: false
+  description: Rails engine for Facebook's canvas integration.
+  contributors:
+  - user_name: Khalasar
+    avatar_url: https://avatars.githubusercontent.com/u/3877672?v=3
+    contributions: 13
+  - user_name: splattael
+    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
+    contributions: 8
+  - user_name: jnbt
+    avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
+    contributions: 2
+  badges:
+  - https://img.shields.io/travis/neopoly/facebook_canvas.svg
+  - https://img.shields.io/gem/v/facebook_canvas.svg
+  - https://img.shields.io/codeclimate/github/neopoly/facebook_canvas.svg
+  - https://codeclimate.com/github/neopoly/facebook_canvas/badges/coverage.svg
+  - https://inch-ci.org/github/neopoly/facebook_canvas.svg
+  repo_url: git://github.com/neopoly/facebook_canvas.git
 - user_name: neopoly
   repo_name: flash_asset_resolver
   language: ActionScript
@@ -380,7 +396,7 @@
   - user_name: mattrobenolt
     avatar_url: https://avatars.githubusercontent.com/u/375744?v=3
     contributions: 10
-  - user_name: bradleywright
+  - user_name: bradwright
     avatar_url: https://avatars.githubusercontent.com/u/1516?v=3
     contributions: 7
   - user_name: mjackson
@@ -598,14 +614,14 @@
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 4
-  - user_name: gma
-    avatar_url: https://avatars.githubusercontent.com/u/2122?v=3
-    contributions: 1
   - user_name: gkop
     avatar_url: https://avatars.githubusercontent.com/u/222582?v=3
     contributions: 1
   - user_name: bobbus
     avatar_url: https://avatars.githubusercontent.com/u/319570?v=3
+    contributions: 1
+  - user_name: gma
+    avatar_url: https://avatars.githubusercontent.com/u/2122?v=3
     contributions: 1
   - user_name: masa-iwasaki
     avatar_url: https://avatars.githubusercontent.com/u/12929?v=3
@@ -615,9 +631,6 @@
     contributions: 1
   - user_name: rafadc
     avatar_url: https://avatars.githubusercontent.com/u/525892?v=3
-    contributions: 1
-  - user_name: rawongithub
-    avatar_url: https://avatars.githubusercontent.com/u/156687?v=3
     contributions: 1
   - user_name: starpeak
     avatar_url: https://avatars.githubusercontent.com/u/11974?v=3
@@ -705,7 +718,7 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 45
+    contributions: 76
   badges: []
   repo_url: git://github.com/neopoly/neoboard.git
 - user_name: neopoly
@@ -716,7 +729,7 @@
   contributors:
   - user_name: headjump
     avatar_url: https://avatars.githubusercontent.com/u/191538?v=3
-    contributions: 20
+    contributions: 24
   badges:
   - https://img.shields.io/travis/neopoly/neocore-js.svg
   repo_url: git://github.com/neopoly/neocore-js.git
@@ -736,6 +749,14 @@
   - https://codeclimate.com/github/neopoly/nested_config/badges/coverage.svg
   - https://inch-ci.org/github/neopoly/nested_config.svg
   repo_url: git://github.com/neopoly/nested_config.git
+- user_name: neopoly
+  repo_name: omniauth-registrar
+  language: Ruby
+  fork: false
+  description: OmniAuth strategy to simplify sign up / sign in process
+  contributors: []
+  badges: []
+  repo_url: git://github.com/neopoly/omniauth-registrar.git
 - user_name: neopoly
   repo_name: 'on'
   language: Ruby
@@ -763,7 +784,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 37
+    contributions: 38
   - user_name: rrrene
     avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
     contributions: 7
@@ -980,9 +1001,6 @@
   - user_name: jbbarth
     avatar_url: https://avatars.githubusercontent.com/u/29363?v=3
     contributions: 106
-  - user_name: emassip
-    avatar_url: https://avatars.githubusercontent.com/u/12543?v=3
-    contributions: 96
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 50
@@ -1171,9 +1189,6 @@
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
     contributions: 8
-  - user_name: JanOwiesniak
-    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
-    contributions: 3
   - user_name: daxadax
     avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
     contributions: 1
@@ -1186,12 +1201,6 @@
   fork: false
   description: Rails Engine to integrate Registrar
   contributors:
-  - user_name: JanOwiesniak
-    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
-    contributions: 3
-  - user_name: splattael
-    avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 1
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
     contributions: 1
@@ -1231,7 +1240,7 @@
     contributions: 50
   - user_name: JanOwiesniak
     avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
-    contributions: 25
+    contributions: 22
   - user_name: daxadax
     avatar_url: https://avatars.githubusercontent.com/u/3669808?v=3
     contributions: 20
@@ -1240,7 +1249,7 @@
     contributions: 20
   - user_name: shlub
     avatar_url: https://avatars.githubusercontent.com/u/443782?v=3
-    contributions: 12
+    contributions: 13
   badges:
   - https://img.shields.io/gem/v/rohbau.svg
   - https://img.shields.io/travis/neopoly/rohbau.svg
@@ -1278,7 +1287,10 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 45
+    contributions: 46
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 3
   badges: []
   repo_url: git://github.com/neopoly/rubyfox-server.git
 - user_name: neopoly
@@ -1289,7 +1301,7 @@
   contributors:
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 47
+    contributions: 52
   - user_name: holderbaum
     avatar_url: https://avatars.githubusercontent.com/u/189389?v=3
     contributions: 1
