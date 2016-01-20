@@ -355,7 +355,7 @@ Solutions to common oss problems ruby developers have to struggle with almost ev
 
 Rails engine for Facebook's canvas integration.
 
-<a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; 
+<a href="https://github/Khalasar"><img src="https://avatars.githubusercontent.com/u/3877672?v=3" width="32" height="32"> &nbsp; <a href="https://github/splattael"><img src="https://avatars.githubusercontent.com/u/28908?v=3" width="32" height="32"> &nbsp; <a href="https://github/jnbt"><img src="https://avatars.githubusercontent.com/u/678542?v=3" width="32" height="32"> &nbsp; <a href="https://github/JanOwiesniak"><img src="https://avatars.githubusercontent.com/u/213214?v=3" width="32" height="32"> &nbsp; <a href="https://github/rrrene"><img src="https://avatars.githubusercontent.com/u/311914?v=3" width="32" height="32"> &nbsp; 
 
 
 <img src="https://img.shields.io/travis/neopoly/facebook_canvas.svg"> &nbsp; <img src="https://img.shields.io/gem/v/facebook_canvas.svg"> &nbsp; <img src="https://img.shields.io/codeclimate/github/neopoly/facebook_canvas.svg"> &nbsp; <img src="https://codeclimate.com/github/neopoly/facebook_canvas/badges/coverage.svg"> &nbsp; <img src="https://inch-ci.org/github/neopoly/facebook_canvas.svg"> &nbsp; 
@@ -767,4 +767,4 @@ Rails engine providing view models.
 
 
 
-&copy; 2015.
+&copy; 2016.

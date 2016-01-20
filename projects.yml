@@ -48,7 +48,7 @@
     contributions: 102
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 27
+    contributions: 30
   - user_name: JanOwiesniak
     avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
     contributions: 2
@@ -339,13 +339,19 @@
   contributors:
   - user_name: Khalasar
     avatar_url: https://avatars.githubusercontent.com/u/3877672?v=3
-    contributions: 13
+    contributions: 16
   - user_name: splattael
     avatar_url: https://avatars.githubusercontent.com/u/28908?v=3
-    contributions: 8
+    contributions: 9
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
     contributions: 2
+  - user_name: JanOwiesniak
+    avatar_url: https://avatars.githubusercontent.com/u/213214?v=3
+    contributions: 2
+  - user_name: rrrene
+    avatar_url: https://avatars.githubusercontent.com/u/311914?v=3
+    contributions: 1
   badges:
   - https://img.shields.io/travis/neopoly/facebook_canvas.svg
   - https://img.shields.io/gem/v/facebook_canvas.svg
@@ -718,7 +724,7 @@
   contributors:
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 76
+    contributions: 82
   badges: []
   repo_url: git://github.com/neopoly/neoboard.git
 - user_name: neopoly
@@ -790,7 +796,7 @@
     contributions: 7
   - user_name: jnbt
     avatar_url: https://avatars.githubusercontent.com/u/678542?v=3
-    contributions: 4
+    contributions: 5
   badges: []
   repo_url: git://github.com/neopoly/oss.git
 - user_name: neopoly
@@ -932,15 +938,15 @@
   fork: true
   description: A Reverse Proxy for Rack
   contributors:
+  - user_name: ehlertij
+    avatar_url: https://avatars.githubusercontent.com/u/174227?v=3
+    contributions: 49
   - user_name: jaswope
     avatar_url: https://avatars.githubusercontent.com/u/75763?v=3
     contributions: 35
   - user_name: pex
     avatar_url: https://avatars.githubusercontent.com/u/60568?v=3
     contributions: 14
-  - user_name: ehlertij
-    avatar_url: https://avatars.githubusercontent.com/u/174227?v=3
-    contributions: 9
   - user_name: hubertlepicki
     avatar_url: https://avatars.githubusercontent.com/u/33274?v=3
     contributions: 5
